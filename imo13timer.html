@@ -4,9 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>IMO三人对话</title>
-
-		<link rel="stylesheet" href="css/resp.css">
+		<title>IMO觉知对话计时器</title>
 		
 		<link rel="stylesheet" href="reveal.js/dist/reset.css">
 		<link rel="stylesheet" href="reveal.js/dist/reveal.css">
@@ -15,41 +13,131 @@
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="reveal.js/plugin/highlight/monokai.css">
 
+		<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+
+		<style>
+
+			.resp-container {
+			    position: relative;
+			    overflow: hidden;
+			    padding-top: 56.25%;
+			}
+
+			.resp-iframe {
+			    position: absolute;
+			    top: 0;
+			    left: 0;
+			    width: 100%;
+			    height: 100%;
+			    border: 0;
+			}
+
+			.text {
+				font-size: 100%;
+			}
+
+			.text p {
+				font-size: 50%;
+				color: yellow;
+			}
+
+			.fragment {
+				color: yellow;
+			}
+
+		</style>
+
 	</head>
 
 	<body>
 		<div class="reveal">
 
-			<div class="slides">
+			<div class="slides" id="imo">
 
-				<section data-autoslide="10000">
-					<p>After 10 seconds the first fragment will be shown.</p>
+				<section data-autoslide="2000">
+					<h1>IMO对话</h1>
+					<h2  style="color:yellow">三人觉知对话在线计时器</h2>
+					<!-- <div class="text">
+						<p class="fragment" data-autoslide="500">对话共分为两个阶段</p>
+						<p class="fragment" data-autoslide="500">第一阶段为内容对话</p>
+						<p class="fragment" data-autoslide="500">第二阶段为过程反思</p>
+						<p class="fragment" data-autoslide="500">内容对话分为三轮</p>
+						<p class="fragment" data-autoslide="500">每轮对话分为陈述、反馈、回应、交流</p>
+						<p class="fragment" data-autoslide="500">最后用5分钟对整个对话过程进行反思</p>
+						<p class="fragment" data-autoslide="2000"></p>
+					</div> -->
+
 				</section>
 
-				<section data-autoslide=300000>
-					<h1>第一轮</h1>
-					<div class="resp-container"">
-						<iframe class="resp-iframe" data-src="https://e.ggtimer.com/A陈述/for/5minutes?theme=gg_timer_slow&hideToolbar=true&notify=false" allowfullscreen></iframe>
-					</div>
+				<section data-autoslide="3000">
+					<h1>提示</h1>
+					<h2 style="color:yellow">请选好第一个分享者</h2>
 				</section>
+
+
+				<template v-for='index in count'>
+
+					<section>
+						<h1>第{{ index }}轮</h1>
+						<p class="fragment" data-autoslide="2000">A开始陈述，共{{ dialogue.speak }}分钟</p>
+					</section>
+
+					<section v-bind:data-autoslide='speakTime()'>
+						<h2>第{{ index }}轮</h2>
+						<div class="resp-container">
+							<iframe class="resp-iframe" v-bind:data-src='speakUrl()' allowfullscreen></iframe>
+						</div>
+					</section>
+
+					<section>
+						<h1>第{{ index }}轮</h1>
+						<p class="fragment" data-autoslide="2000">A停止陈述并转身</p>
+						<p class="fragment" data-autoslide="3000">BC开始反馈，共{{ dialogue.feedback }}分钟</p>
+					</section>
+
+					<section v-bind:data-autoslide='feedbackTime()'>
+						<h2>第{{ index }}轮</h2>
+						<div class="resp-container">
+							<iframe class="resp-iframe" v-bind:data-src='feedbackUrl()' allowfullscreen></iframe>
+						</div>
+					</section>
+
+					<section data-autoslide=10000>
+						<h1>第{{ index }}轮</h1>
+						<p class="fragment" data-autoslide="2000">BC邀请A转身回来</p>
+						<p class="fragment" data-autoslide="3000">A对BC的反馈进行回应，共{{ dialogue.respond }}分钟</p>
+					</section>
+
+					<section v-bind:data-autoslide='respondTime()'>
+						<h2>第{{ index }}轮</h2>
+						<div class="resp-container">
+							<iframe class="resp-iframe" v-bind:data-src='respondUrl()' allowfullscreen></iframe>
+						</div>
+					</section>
+
+					<section data-autoslide=10000>
+						<h1>第{{ index }}轮</h1>
+						<p class="fragment" data-autoslide="3000">自由对话{{ dialogue.chitchat }}分钟</p>
+					</section>
+
+					<section v-bind:data-autoslide='chitchatTime()'>
+						<h2>第{{ index }}轮</h2>
+						<div class="resp-container">
+							<iframe class="resp-iframe" v-bind:data-src='chitchatUrl()' allowfullscreen></iframe>
+						</div>
+					</section>
+
+				</template>
 
 				<section data-autoslide=10000>
-					<h1>A停止陈述并转身，BC开始反馈...
+					<h3>大家可以静默10秒</h3>
+					<p class="fragment" data-autoslide="8000">反思对话过程{{ dialogue.reflect }}分钟</p>
 				</section>
 
-				<section data-autoslide=300000>
+				<section v-bind:data-autoslide='reflectTime()'>
+					<h2>最后一轮对话</h2>
 					<div class="resp-container">
-						<iframe class="resp-iframe" data-src="https://e.ggtimer.com/BC反馈/for/5minutes?theme=gg_timer_slow&hideToolbar=true&notify=false" allowfullscreen></iframe>
-					</div>
-				</section>
-
-				<section data-autoslide=10000>
-					<h1>A转身回来并进行回应...
-				</section>
-
-				<section data-autoslide=120000>
-					<div class="resp-container">
-						<iframe class="resp-iframe" data-src="https://e.ggtimer.com/A回应/for/2minutes?theme=gg_timer_slow&hideToolbar=true&notify=false" allowfullscreen></iframe>
+						<iframe class="resp-iframe" v-bind:data-src='reflectUrl()' allowfullscreen></iframe>
 					</div>
 				</section>
 
@@ -60,7 +148,77 @@
 		<script src="reveal.js/plugin/notes/notes.js"></script>
 		<script src="reveal.js/plugin/markdown/markdown.js"></script>
 		<script src="reveal.js/plugin/highlight/highlight.js"></script>
+
 		<script>
+
+			var oneminute2miliseconds = 60 * 1000;
+
+			var app = new Vue ({
+
+				el: '#imo',
+
+				data: {
+					count: 3,
+
+					dialogue : {
+						speak: 5,
+						feedback: 5,
+						respond: 2,
+						chitchat: 2,
+						reflect: 3
+					}
+				},
+
+				methods: {
+					
+					speakTime: function() {
+						return this.dialogue.speak * oneminute2miliseconds;
+					},
+
+					feedbackTime: function() {
+						return this.dialogue.feedback * oneminute2miliseconds;
+					},
+
+					respondTime: function() {
+						return this.dialogue.respond * oneminute2miliseconds;
+					},
+
+					chitchatTime: function() {
+						return this.dialogue.chitchat * oneminute2miliseconds;
+					},
+
+					reflectTime: function() {
+						return this.dialogue.reflect * oneminute2miliseconds;
+					},
+
+
+					speakUrl: function() {
+
+						return 'https://e.ggtimer.com/A陈述'.concat(this.dialogue.speak).concat('分钟/for/').concat(this.dialogue.speak).concat('minutes?theme=gg_timer_slow&hideToolbar=true&notify=false');
+					},
+
+					feedbackUrl: function() {
+
+						return 'https://e.ggtimer.com/BC反馈'.concat(this.dialogue.feedback).concat('分钟/for/').concat(this.dialogue.feedback).concat('minutes?theme=gg_timer_slow&hideToolbar=true&notify=false');
+					},
+
+					respondUrl: function() {
+
+						return 'https://e.ggtimer.com/A回应'.concat(this.dialogue.respond).concat('分钟/for/').concat(this.dialogue.respond).concat('minutes?theme=gg_timer_slow&hideToolbar=true&notify=false');
+					},
+
+					chitchatUrl: function() {
+
+						return 'https://e.ggtimer.com/自由对话'.concat(this.dialogue.chitchat).concat('分钟/for/').concat(this.dialogue.chitchat).concat('minutes?theme=gg_timer_slow&hideToolbar=true&notify=false');
+					},
+
+					reflectUrl: function() {
+
+						return 'https://e.ggtimer.com/过程反思'.concat(this.dialogue.reflect).concat('分钟/for/').concat(this.dialogue.reflect).concat('minutes?theme=gg_timer_slow&hideToolbar=true&notify=false');
+					}
+				}
+			});
+
 			// More info about initialization & config:
 			// - https://revealjs.com/initialization/
 			// - https://revealjs.com/config/
