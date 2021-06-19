@@ -64,11 +64,11 @@
 
 				<template v-for='(item,index) in eulogy'>
 
-					<section  data-auto-animate data-preload v-bind:data-background-image = 'getBackground()' >
+					<section  data-auto-animate data-preload data-background-opacity=0.5 v-bind:data-background-image = 'getBackground()' >
 						<h2>{{ item.en }}</h2>
 					</section>
 
-					<section  data-auto-animate data-preload v-bind:data-background-image = 'getBackground()' >
+					<section  data-auto-animate data-preload data-background-opacity=0.5 v-bind:data-background-image = 'getBackground()' >
 						<h2 style="font-size:80%;">{{ item.en }}</h2>
 						<h2 class='chinese'>{{ item.cn }}</h2>
 					</section>
