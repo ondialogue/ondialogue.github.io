@@ -54,7 +54,7 @@
 
 			<div class="slides" id="imo">
 
-				<section data-autoslide="2000">
+				<section data-autoslide="2000" data-background-image="https://blog.blindmeet.app/wp-content/uploads/2019/11/fri.jpg" data-background-opacity=0.5>
 					<h1>IMO对话</h1>
 					<h2  style="color:yellow">三人觉知对话在线计时器</h2>
 					<!-- <div class="text">
@@ -152,12 +152,15 @@
 		<script>
 
 			var oneminute2miliseconds = 60 * 1000;
+			var ggtimer_mode = 'theme=gg_timer_slow&hideToolbar=true&notify=false&hideNudge=true';
+
 
 			var app = new Vue ({
 
 				el: '#imo',
 
 				data: {
+					
 					count: 3,
 
 					dialogue : {
@@ -169,8 +172,51 @@
 					}
 				},
 
+				
+				mounted:function() {
+
+					// 更新页面标题，显示对话剩余时间
+					var totleTime = this.count * (this.dialogue.speak + this.dialogue.feedback + this.dialogue.respond + this.dialogue.chitchat + 0.5) + this.dialogue.reflect;
+
+					// Set the date we're counting down to
+					var countDownDate = new Date().getTime() + totleTime * 60000;
+
+					// Update the count down every 1 second
+					var x = setInterval(function() {
+
+						// Get today's date and time
+						var now = new Date().getTime();
+
+						// Find the distance between now and the count down date
+						var distance = countDownDate - now;
+
+						// Time calculations for days, hours, minutes and seconds
+						var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+						var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+						var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+						var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+						var remaining = '';
+
+						if(hours >0) {
+						   remaining = hours + "小时";
+						}
+						
+						remaining = remaining.concat(minutes + "分" + seconds + "秒")
+
+						document.title = "对话时间还剩 ".concat(remaining);
+						    
+						// If the count down is over, write some text 
+						if (distance < 0) {
+							clearInterval(x);
+							document.title = "EXPIRED";
+						}
+					}, 1000);
+				},
+
 				methods: {
 					
+					// 分阶段定时器的时间参数					
 					speakTime: function() {
 						return this.dialogue.speak * oneminute2miliseconds;
 					},
@@ -191,33 +237,35 @@
 						return this.dialogue.reflect * oneminute2miliseconds;
 					},
 
-
+					// 借用e.ggtimer.com网站来嵌入网页
 					speakUrl: function() {
 
-						return 'https://e.ggtimer.com/A陈述'.concat(this.dialogue.speak).concat('分钟/for/').concat(this.dialogue.speak).concat('minutes?theme=gg_timer_slow&hideToolbar=true&notify=false');
+						return 'https://e.ggtimer.com/A陈述'.concat(this.dialogue.speak).concat('分钟/for/').concat(this.dialogue.speak).concat('minutes?').concat(ggtimer_mode);
 					},
 
 					feedbackUrl: function() {
 
-						return 'https://e.ggtimer.com/BC反馈'.concat(this.dialogue.feedback).concat('分钟/for/').concat(this.dialogue.feedback).concat('minutes?theme=gg_timer_slow&hideToolbar=true&notify=false');
+						return 'https://e.ggtimer.com/BC反馈'.concat(this.dialogue.feedback).concat('分钟/for/').concat(this.dialogue.feedback).concat('minutes?').concat(ggtimer_mode);
 					},
 
 					respondUrl: function() {
 
-						return 'https://e.ggtimer.com/A回应'.concat(this.dialogue.respond).concat('分钟/for/').concat(this.dialogue.respond).concat('minutes?theme=gg_timer_slow&hideToolbar=true&notify=false');
+						return 'https://e.ggtimer.com/A回应'.concat(this.dialogue.respond).concat('分钟/for/').concat(this.dialogue.respond).concat('minutes?').concat(ggtimer_mode);
 					},
 
 					chitchatUrl: function() {
 
-						return 'https://e.ggtimer.com/自由对话'.concat(this.dialogue.chitchat).concat('分钟/for/').concat(this.dialogue.chitchat).concat('minutes?theme=gg_timer_slow&hideToolbar=true&notify=false');
+						return 'https://e.ggtimer.com/自由对话'.concat(this.dialogue.chitchat).concat('分钟/for/').concat(this.dialogue.chitchat).concat('minutes?').concat(ggtimer_mode);
 					},
 
 					reflectUrl: function() {
 
-						return 'https://e.ggtimer.com/过程反思'.concat(this.dialogue.reflect).concat('分钟/for/').concat(this.dialogue.reflect).concat('minutes?theme=gg_timer_slow&hideToolbar=true&notify=false');
+						return 'https://e.ggtimer.com/过程反思'.concat(this.dialogue.reflect).concat('分钟/for/').concat(this.dialogue.reflect).concat('minutes?').concat(ggtimer_mode);
 					}
 				}
 			});
+
+			// app.updateTitle();
 
 			// More info about initialization & config:
 			// - https://revealjs.com/initialization/
@@ -228,6 +276,9 @@
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
 			});
+			
+			
+
 		</script>
 	</body>
 </html>
