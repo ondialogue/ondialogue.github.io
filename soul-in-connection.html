@@ -1,0 +1,266 @@
+
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>将你的灵魂接在我的线路上</title>
+		
+		<link rel="stylesheet" href="reveal.js/dist/reset.css">
+		<link rel="stylesheet" href="reveal.js/dist/reveal.css">
+		<link rel="stylesheet" href="reveal.js/dist/theme/black.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="reveal.js/plugin/highlight/monokai.css">
+		<!-- <link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+		/> -->
+
+		<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+
+
+		<style>
+			.text {
+				font-size: 100%;
+			}
+
+			.text p {
+				font-size: 50%;
+				color: yellow;
+			}
+
+			h2.chinese {
+				color: yellow;
+			}
+
+			p.fragment {
+				font-size: 80%;
+			}
+
+			.chinese h2,p {
+				color: yellow;
+			}
+
+
+			.typing {
+			    width: 15em;
+			    white-space: nowrap;
+			    border-right: 2px solid transparent;
+			    animation: typing 3.5s steps(15, end), blink-caret .75s step-end infinite;
+			    overflow: hidden;
+			}
+
+			.typing:after {
+				 position: absolute;
+			}
+
+			/* 打印效果 */
+			@keyframes typing {
+			  from { width: 0; }
+			  to { width: 15em; }
+			}
+
+			/* 光标闪啊闪 */
+			@keyframes blink-caret {
+			  from, to { box-shadow: 1px 0 0 0 transparent; }
+			  50% { box-shadow: 1px 0 0 0; }
+			}
+
+		</style>
+
+
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<div class="slides" id="song">
+
+
+				<section data-background-image='https://coresites-cdn-adm.imgix.net/mpora_new/wp-content/uploads/2017/02/iStock-530195988.jpg' data-background-opacity=0.7 data-autoslide=13000>
+					<h2>将你的灵魂接在我的线路上</h2>
+					<h3 style='color:yellow'>东方快车</h3>
+				</section>
+
+
+				<template v-for='(item,index) in lyrics'>
+
+					<section  data-auto-animate data-preload data-background-opacity=0.5 v-bind:data-background-image = 'getBackground()' v-bind:data-autoslide='getAutoSlide()'>
+						<h2>{{ item }}</h2>
+					</section>
+
+				</template>
+
+
+				<section>
+					<h3>感谢观看!</h3>
+					<h6 style="align-items: right; font-size: 50%; color: grey;">制作：韦伟</h6>
+				</section>
+
+			</div>
+
+		</div>
+
+		<audio id="music" autoplay="true" loop="loop" preload="auto"
+		        src="http://music.163.com/song/media/outer/url?id=351356.mp3">
+		</audio>
+
+		<script src="reveal.js/dist/reveal.js"></script>
+		<script src="reveal.js/plugin/notes/notes.js"></script>
+		<script src="reveal.js/plugin/markdown/markdown.js"></script>
+		<script src="reveal.js/plugin/highlight/highlight.js"></script>
+
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			
+			function getQueryVariable(variable)
+			{
+			       var query = window.location.search.substring(1);
+			       var vars = query.split("&");
+			       for (var i=0;i<vars.length;i++) {
+				       var pair = vars[i].split("=");
+				       if(pair[0] == variable){return pair[1];}
+			       }
+			       return(false);
+			}
+			
+			var count = 1;
+
+			var song =`将你的灵魂接在我的线路上
+让这个城市开始发光
+让这个地球开始旋转
+我们是一座庞大的发电厂
+一颗心永远不打烊
+控制白天的时光改变夜晚的仿徨
+我们是宇宙冲刺的太空船
+没有人能够阻挡
+你用灵魂去燃烧我用生命去交换
+我们的心不会再无助和悲伤
+我们的爱有未来
+将你的灵魂接在我的线路上
+让我们的歌声传送到天堂
+将你的灵魂接在我的线路上
+让海水都发烫
+让浩瀚的天空全部都打开
+我们是一座庞大的发电厂
+一颗心永远不打烊
+控制白天的时光改变夜晚的仿徨
+我们是宇宙冲刺的太空船
+没有人能够阻挡
+你用灵魂去燃烧我用生命去交换
+我们的心不会再无助和悲伤
+我们的爱有未来
+将你的灵魂接在我的线路上
+让我们的歌声传送到天堂
+将你的灵魂接在我的线路上
+让海水都发烫
+让浩瀚的天空全部都打开
+将你的灵魂接在我的线路上
+让我们的歌声传送到天堂
+将你的灵魂接在我的线路上
+让海水都发烫
+让浩瀚的天空全部都打开`;
+
+
+
+			var texts_of_song = song.split('\n');
+			var texts_count = 1;
+
+			// console.log(texts_of_song);
+
+			var app = new Vue ({
+
+				el: '#song',
+
+				methods: {
+
+					getBackground: function(){
+						
+						var collectionid = getQueryVariable('id');
+						if(collectionid == false) {
+							collectionid = '3642660';
+						}
+						
+						var index = Math.floor(Math.random()* 1000);
+
+						var background = 'https://source.unsplash.com/collection/'.concat(collectionid).concat('?sig=').concat(index);
+						
+						return background;
+					},
+
+					getAutoSlide: function() {
+						
+
+						var seconds = this.pause[texts_count] - this.pause[texts_count-1];
+						console.log("PAUSE:" + seconds);
+						texts_count += 1;
+
+						return seconds * 1000;
+
+					},
+
+				},
+
+				
+				data: {
+					lyrics: texts_of_song,
+					
+					pause:[
+						13,
+						21,
+						28,
+						44,
+						55,
+						60,
+						65,
+						68,
+						71,
+						77,
+						82,
+						87,
+						94,
+						99,
+						105,
+						108,
+						120,
+						157,
+						162,
+						167,
+						170,
+						174,
+						179,
+						185,
+						190,
+						196,
+						201,
+						208,
+						211,
+						219,
+						227,
+						233,
+						240,
+						242,
+						262
+					]
+				},
+
+			});
+
+
+			Reveal.initialize({
+				hash: true,
+				controls: false,
+				autoSlide: 2000,
+  				loop: true,
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+
+		</script>
+	</body>
+</html>

@@ -1,0 +1,184 @@
+
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>将你的灵魂接在我的线路上</title>
+
+		<link rel="stylesheet" href="css/resp.css">
+		
+		<link rel="stylesheet" href="reveal.js/dist/reset.css">
+		<link rel="stylesheet" href="reveal.js/dist/reveal.css">
+		<link rel="stylesheet" href="reveal.js/dist/theme/black.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="reveal.js/plugin/highlight/monokai.css">
+
+		<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+
+
+		<style>
+			.text {
+				font-size: 100%;
+			}
+
+			.text p {
+				font-size: 50%;
+				color: yellow;
+			}
+
+			h2.chinese {
+				color: yellow;
+			}
+
+			p.fragment {
+				font-size: 80%;
+			}
+
+			.chinese h2,p {
+				color: yellow;
+			}
+
+		</style>
+
+
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<div class="slides" id="spong">
+
+
+				<section data-auto-animate>
+					<h1>将你的灵魂接在我的线路上</h1>
+					<h2>东方快车</h2>
+				</section>
+
+
+				<template v-for='(item,index) in lyrics'>
+
+					<section  data-auto-animate data-preload data-background-opacity=0.5 v-bind:data-background-image = 'getBackground()' v-bind:data-autoslide='getAutoSlide()'>
+						<h2>{{ item }}</h2>
+					</section>
+
+				</template>
+
+
+				<section>
+					<h2>感谢观看!</h2>
+					<h6 style="align-items: right; font-size: 50%; color: grey;">制作：韦伟</h6>
+				</section>
+
+			</div>
+
+		</div>
+
+		<script src="reveal.js/dist/reveal.js"></script>
+		<script src="reveal.js/plugin/notes/notes.js"></script>
+		<script src="reveal.js/plugin/markdown/markdown.js"></script>
+		<script src="reveal.js/plugin/highlight/highlight.js"></script>
+
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			
+			function getQueryVariable(variable)
+			{
+			       var query = window.location.search.substring(1);
+			       var vars = query.split("&");
+			       for (var i=0;i<vars.length;i++) {
+				       var pair = vars[i].split("=");
+				       if(pair[0] == variable){return pair[1];}
+			       }
+			       return(false);
+			}
+			
+			var count = 1;
+
+			var song =`将你的灵魂接在我的线路上
+让这个城市开始发光
+让这个地球开始旋转
+我们是一座庞大的发电厂
+一颗心永远不打烊
+控制白天的时光改变夜晚的仿徨
+我们是宇宙冲刺的太空船
+没有人能够阻挡
+你用灵魂去燃烧我用生命去交换
+我们的心不会再无助和悲伤
+我们的爱有未来
+将你的灵魂接在我的线路上
+让我们的歌声传送到天堂
+将你的灵魂接在我的线路上
+让海水都发烫
+让浩瀚的天空全部都打开
+我们是一座庞大的发电厂
+一颗心永远不打烊
+控制白天的时光改变夜晚的仿徨
+我们是宇宙冲刺的太空船
+没有人能够阻挡
+你用灵魂去燃烧我用生命去交换
+我们的心不会再无助和悲伤
+我们的爱有未来
+将你的灵魂接在我的线路上
+让我们的歌声传送到天堂
+将你的灵魂接在我的线路上
+让海水都发烫
+让浩瀚的天空全部都打开
+将你的灵魂接在我的线路上
+让我们的歌声传送到天堂
+将你的灵魂接在我的线路上
+让海水都发烫
+让浩瀚的天空全部都打开`;
+
+			var texts_of_song = song.split('\n');
+
+
+			var app = new Vue ({
+
+				el: '#song',
+
+				methods: {
+
+					getBackground: function(){
+						
+						var collectionid = getQueryVariable('id');
+						if(collectionid == false) {
+							collectionid = '3642660';
+						}
+						
+						var background = 'https://source.unsplash.com/collection/'.concat(collectionid).concat('?sig=').concat(Math.round(count / 2));
+						
+						count += 1;
+
+						console.log(background);
+
+						return background;
+					}
+
+				},
+
+				
+				data: {
+				
+					lyrics: texts_of_song
+				}
+			});
+
+
+			Reveal.initialize({
+				hash: true,
+				controls: false,
+				autoSlide: 2000,
+  				loop: true,
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+
+		</script>
+	</body>
+</html>
