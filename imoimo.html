@@ -16,7 +16,6 @@
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="reveal.js/plugin/highlight/monokai.css">
 
-
 		<style>
 			.text {
 				font-size: 100%;
@@ -26,6 +25,43 @@
 				font-size: 50%;
 				color: yellow;
 			}
+
+
+			.typewriter {
+			    font-family: Courier, monospace;
+				display: inline-block;
+			}
+
+			.typewriter-text {
+			    display: inline-block;
+			  	overflow: hidden;
+			  	letter-spacing: 2px;
+			 	animation: typing 5s steps(30, end), blink .75s step-end infinite;
+			    white-space: nowrap;
+			    font-size: 30px;
+			    font-weight: 700;
+			    border-right: 4px solid orange;
+			    box-sizing: border-box;
+			}
+
+			@keyframes typing {
+			    from { 
+			        width: 0% 
+			    }
+			    to { 
+			        width: 100% 
+			    }
+			}
+
+			@keyframes blink {
+			    from, to { 
+			        border-color: transparent 
+			    }
+			    50% { 
+			        border-color: orange; 
+			    }
+			}
+
 		</style>
 
 	</head>
@@ -34,47 +70,81 @@
 
 		<div class="reveal">
 
-			<div class="slides">
+			<div class="slides" id="md">
 
-				<!-- <section data-autoslide="2000">
-					<h1>IMO颂词</h1>
+				<!-- <section v-bind:data-markdown="getMd()"
+					data-separator="^\n---\n$"
+					data-vertical="^\n------\n$"
+					data-notes="^Notes:"
+					data-charset="iso-8859-15">
 				</section> -->
 
+				<!-- <section data-external="s1.html"> </section> -->
 
-				<script type="text/javascript">
-					
-					var texts = ['aa','bb','cc'];
+				<section data-autoslide="12000">
+					<div class="typewriter">
+						<div class="typewriter-text">将你的灵魂接在我的线路上</div>
+					</div>
+				</section>
 
-					for (var msg in texts ) {
-						document.write('<section data-background-image="https://source.unsplash.com/collection/3137861/800x450">');
-						document.write('<p>');
-						document.write(msg);
-						document.write('</p>');
-						document.write('</section');
-					}
-				
-				</script>
+				<section>
+					<div class="typewriter">
+						<div class="typewriter-text">我是一座巨大的发电厂</div>
+					</div>
+				</section>
 
 
 			</div>
+
 		</div>
+
 
 		<script src="reveal.js/dist/reveal.js"></script>
 		<script src="reveal.js/plugin/notes/notes.js"></script>
 		<script src="reveal.js/plugin/markdown/markdown.js"></script>
 		<script src="reveal.js/plugin/highlight/highlight.js"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+
 		<script>
+
+
+			var app = new Vue ({
+
+				el: '#md',
+
+				data: {
+					
+				},
+
+				methods: {
+					getMd: function() {
+						return "demo.md";
+					}
+				}
+			});
+
+
 			// More info about initialization & config:
 			// - https://revealjs.com/initialization/
 			// - https://revealjs.com/config/
 			Reveal.initialize({
 				hash: true,
 				controls: false,
-				autoSlide: 5000,
   				loop: true,
+
+  				autoSilde: 10000,
+
+  				dependencies: [
+					{ src: 'external/external/external.js', condition: function() { return !!document.querySelector( '[data-external]' ); } },
+
+				],
+
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
 			});
+
+
 		</script>
 	</body>
 </html>
