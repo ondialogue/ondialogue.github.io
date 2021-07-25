@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2021-07-25T02:05:18.019Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="atLr751ln3NeJWp6JoD3" version="14.9.2" type="github">
+  <diagram id="AUdHSmysi2jdWWV-GMQU" name="Page-1">
+    <mxGraphModel dx="1097" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nfDTvoyhaY3MQZiRPdck-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="120" width="532.38" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="nfDTvoyhaY3MQZiRPdck-1" value="" style="endArrow=classic;html=1;strokeWidth=5;endFill=1;fontColor=#CCCC00;strokeColor=#CCCC00;" edge="1" parent="nfDTvoyhaY3MQZiRPdck-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219.8960869565217" y="430.00000000000006" as="sourcePoint" />
+            <mxPoint x="219.8960869565217" y="34.86486486486486" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfDTvoyhaY3MQZiRPdck-2" value="" style="endArrow=classic;html=1;strokeWidth=5;endFill=1;fontColor=#CCCC00;strokeColor=#CCCC00;" edge="1" parent="nfDTvoyhaY3MQZiRPdck-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="232.43243243243242" as="sourcePoint" />
+            <mxPoint x="451.36565217391296" y="232.43243243243242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfDTvoyhaY3MQZiRPdck-3" value="个体关怀" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nfDTvoyhaY3MQZiRPdck-9">
+          <mxGeometry x="196.7491304347826" width="57.867391304347805" height="23.243243243243242" as="geometry" />
+        </mxCell>
+        <mxCell id="nfDTvoyhaY3MQZiRPdck-4" value="直接挑战" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nfDTvoyhaY3MQZiRPdck-9">
+          <mxGeometry x="462.93913043478244" y="220.8108108108108" width="69.44086956521737" height="23.243243243243242" as="geometry" />
+        </mxCell>
+        <mxCell id="nfDTvoyhaY3MQZiRPdck-5" value="虚情假意" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="nfDTvoyhaY3MQZiRPdck-9">
+          <mxGeometry x="69.44086956521737" y="313.78378378378386" width="69.44086956521737" height="23.243243243243242" as="geometry" />
+        </mxCell>
+        <mxCell id="nfDTvoyhaY3MQZiRPdck-6" value="恶意侵犯&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; font-weight: 400&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E8%99%9A%E6%83%85%E5%81%87%E6%84%8F%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D14%3BfontStyle%3D1%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22180%22%20y%3D%22310%22%20width%3D%2260%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="nfDTvoyhaY3MQZiRPdck-9">
+          <mxGeometry x="300.91043478260866" y="313.78378378378386" width="69.44086956521737" height="23.243243243243242" as="geometry" />
+        </mxCell>
+        <mxCell id="nfDTvoyhaY3MQZiRPdck-7" value="过分同情" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="nfDTvoyhaY3MQZiRPdck-9">
+          <mxGeometry x="69.44086956521737" y="116.21621621621621" width="69.44086956521737" height="23.243243243243242" as="geometry" />
+        </mxCell>
+        <mxCell id="nfDTvoyhaY3MQZiRPdck-8" value="绝对坦率" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#3333FF;" vertex="1" parent="nfDTvoyhaY3MQZiRPdck-9">
+          <mxGeometry x="289.33695652173907" y="104.5945945945946" width="104.16130434782606" height="46.486486486486484" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
