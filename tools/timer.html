@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+
+<html>
+	<title>定时器</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="../css/w3.css">
+	<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+	
+	<script>
+		if (!String.prototype.format) {
+		  String.prototype.format = function() {
+		    var args = arguments;
+		    return this.replace(/{(\d+)}/g, function(match, number) { 
+		      return typeof args[number] != 'undefined'
+		        ? args[number]
+		        : match
+		      ;
+		    });
+		  };
+		}
+
+		$(document).ready(function(){
+
+			const minutes = [1,2,3,5,8,10,20,30,45,60,120];
+
+			var eggtimerfmt = "https://e.ggtimer.com/{0}m?hideToolbar=true&notify=false&muted=true"
+
+			var href ='<a href="{0}" class="w3-button w3-red w3-block w3-section">{1}m</a>';
+
+			for(let index in minutes) {
+
+				var eggtimer = eggtimerfmt.format(minutes[index]);
+
+				$("div.minutes").append(href.format(eggtimer,minutes[index]));
+			}
+		});
+
+	</script>
+
+	<body>
+
+		<div class="w3-container">
+
+			<div class="w3-panel w3-red">
+				<p>按分钟计时</p>
+			</div>
+
+
+
+			<div class="w3-panel w3-white w3-card w3-display-container">
+
+<!-- 				<span class="w3-display-topright w3-padding w3-hover-red">X</span>
+ -->				
+				<p class="w3-text-blue"><b>分钟计时</b></p>
+
+				<div class="minutes">
+
+				</div>
+
+				<p class="w3-text-blue">Show in folder</p>
+			</div>
+
+
+
+			<div class="w3-panel w3-white w3-card w3-display-container">
+				<p class="w3-text-blue"><b>应用场景</b></p>
+				<a href="imo13timer.html" class="w3-button w3-red w3-block w3-section">IMO觉知对话</a>
+			</div>
+
+
+		</div>
+
+	</body>
+
+</html>
