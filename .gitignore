@@ -1,0 +1,6 @@
+
+*.log
+*.pid
+uploads/.DS_Store
+uploads/images/funny/.DS_Store
+*.log
