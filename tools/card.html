@@ -1,0 +1,113 @@
+
+<!DOCTYPE html>
+
+<html>
+	<title>对话卡片</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="../css/w3.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+
+
+	<script>
+		if (!String.prototype.format) {
+		  String.prototype.format = function() {
+		    var args = arguments;
+		    return this.replace(/{(\d+)}/g, function(match, number) { 
+		      return typeof args[number] != 'undefined'
+		        ? args[number]
+		        : match
+		      ;
+		    });
+		  };
+		}
+		
+
+	</script>
+
+	<body>
+
+		<!-- <div class="w3-display-container w3-display-middle w3-mobile"> -->
+		<div id="app-1">
+
+			<div class="w3-panel w3-white w3-display-middle w3-mobile">
+				
+				<div class="w3-card-4 w3-padding w3-margin-bottom">
+
+					<div class="w3-container w3-right">
+						<i class="fa fa-home w3-small w3-text-grey"><span class="w3-tiny w3-text-grey w3-margin-left">{{ getType }}</span></i>
+					</div>
+
+					<div class="w3-container w3-center w3-bold w3-text-blue w3-xxlarge">
+						<p>{{ getName }}</p>
+					</div>
+
+					<div class="w3-container w3-margin-bottom">
+						<img v-bind:src="getImage" class="w3-image" style="width:100%;height:200px;" />
+					</div>
+
+					<div class="w3-container w3-center">
+						<p>{{ getIntro }}</p>
+					</div>
+
+				
+					<div class="w3-container w3-center w3-text-grey w3-tiny">
+						<p>{{ getTips }}</p>
+					</div>
+
+					<div class="w3-container w3-center w3-margin-top w3-margin-bottom">
+						<i class="fa fa-comments w3-small w3-text-grey"><span class="w3-tiny w3-text-grey w3-margin-left">对话力</span></i>
+					</div>
+
+				</div>
+
+ 			</div>
+
+		</div>
+
+
+		<script type="text/javascript">
+			
+			var app1 = new Vue({
+			  el: '#app-1',
+			  data: {
+			  	type: '热身',
+			    name: '十字',
+			    image: 'https://source.unsplash.com/400x300/?river,water',
+			    intro:'只用十个字来描述一个与主题有关的句子',
+			    tips:'Tip：用手指数数来统计单词数量'
+			  },
+
+			  computed: {
+			  	getType: function() {
+			  		return '热身';
+			  	},
+
+			  	getName: function() {
+			  		return '十字';
+			  	},
+
+			  	getImage: function() {
+			  		return 'https://source.unsplash.com/400x300/?river,water';
+			  	},
+
+			  	getIntro: function() {
+			  		return '只用十个字来描述一个与主题有关的句子';
+			  	},
+
+			  	getTips: function() {
+			  		return 'Tip：用手指数数来统计单词数量';
+			  	}
+			  }
+
+			});
+
+		</script>
+
+	</body>
+
+</html>
