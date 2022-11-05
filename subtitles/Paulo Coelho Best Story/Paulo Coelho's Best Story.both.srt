@@ -39,9 +39,8 @@ Love, don't give up
 Don't stop on the track
 
 9
-00:03:09,917 --> 00:03:11,458
-PAULO COELHO'S BEST STORY
-PAULO COELHO'S BEST STORY
+00:03:09,917 --> 00:03:13,458
+{\an5}<font size="120px">朝圣之旅</font><br/><br/><font size="60px">保罗·柯艾略的精彩故事</font>
 
 10
 00:03:11,583 --> 00:03:13,250
@@ -150,12 +149,12 @@ If you stop, the car might get you
 
 31
 00:04:28,250 --> 00:04:32,583
-RIO DE JANEIRO, 1960s
+里约热内卢，20世纪60 年代
 RIO DE JANEIRO, 1960s
 
 32
 00:04:52,375 --> 00:04:54,083
-Paulo Coelho de Souza.
+保罗·柯艾略·德·索萨。
 Paulo Coelho de Souza.
 
 33
@@ -165,17 +164,17 @@ Come, son.
 
 34
 00:05:02,208 --> 00:05:03,583
-别管他了。
+别管他。
 Leave him.
 
 35
 00:05:04,125 --> 00:05:05,875
-他自己去。
+让他自己去吧。
 He'll go by himself.
 
 36
 00:05:19,250 --> 00:05:21,958
-我想死，因为一切都是错的。
+“我想死，因为一切都是错的。
 ‟I want to die because everything's wrong.
 
 37
@@ -205,7 +204,7 @@ Is it true you've never had a girlfriend?
 
 42
 00:05:55,417 --> 00:05:57,042
-为什么不呢？
+为什么不交呢？
 Why not?
 
 43
@@ -215,7 +214,7 @@ Because I'm ugly.
 
 44
 00:06:06,208 --> 00:06:08,458
-所以你才想自杀吗？
+这就是你要自杀的原因吗？
 Is that why you tried to kill yourself?
 
 45
@@ -225,12 +224,12 @@ Paulo,
 
 46
 00:06:16,917 --> 00:06:20,958
-你有没有想过亲一个男人？
+你有没有想过去亲一个男人？
 have you ever felt like kissing a man?
 
 47
 00:06:21,083 --> 00:06:24,750
-也许是朋友或熟人？
+这个人也许是你朋友或熟人？
 Maybe a friend or an acquaintance?
 
 48
@@ -245,7 +244,7 @@ Your parents are worried, but everything will be all right.
 
 50
 00:06:31,750 --> 00:06:33,542
-- 同性恋?			- 说完了吗？
+- 同性恋?	                - 说完了吗？
 - Homosexuality.	- Are we done?
 
 51
@@ -305,7 +304,7 @@ Do you think anyone will want to read
 
 62
 00:07:34,958 --> 00:07:37,458
-你写的关于你自己的东西？
+你写的关于你自己的东西吗？
 the things you write about yourself?
 
 63
@@ -320,7 +319,7 @@ I think my parents are waiting for me.
 
 65
 00:08:07,292 --> 00:08:09,833
-我不确定我们做的是对的。
+我不确定我们做对了。
 I'm not sure we did the right thing.
 
 66
@@ -335,8 +334,8 @@ No one told me when I can come visit.
 
 68
 00:08:18,792 --> 00:08:21,458
-- 我们会查出来的	 	- 他连衣服都没带。
-- We will find out. 	- He didn't even bring clothes.
+- 我们会查出来的     - 他连衣服都没带
+- We will find out. 	   - He didn't even bring clothes.
 
 69
 00:08:21,583 --> 00:08:23,250
@@ -350,12 +349,12 @@ Let's get out of here, Chris.
 
 71
 00:08:57,542 --> 00:09:00,000
-- 保罗		- 我得马上离开这里。
-- Paulo. 	- I need to get out of here now.
+- 保罗		   -  我得马上离开这里。
+- Paulo. 	   -  I need to get out of here now.
 
 72
 00:09:00,125 --> 00:09:01,625
-回去睡觉，你很虚弱。
+回去睡觉吧，你很虚弱。
 Go back to bed. You're weak.
 
 73
@@ -405,7 +404,7 @@ It's my party. Do you want to come?
 
 81
 00:09:29,917 --> 00:09:33,458
-如果医生说你可以，我们就去。
+如果医生说你可以去，我们就去。
 If the doctor says you can, we'll go.
 
 82
@@ -480,7 +479,7 @@ When you want something,
 
 96
 00:12:16,958 --> 00:12:21,000
-整个宇宙都会联合起来帮你的忙。
+整个宇宙都会联合起来帮助你实现。
 all the universe conspires in helping you achieve it.
 
 97
@@ -680,7 +679,7 @@ Get in.
 
 135
 00:16:26,542 --> 00:16:31,917
-里约热内卢, 二十世纪六十年代
+里约热内卢, 20世纪60年代
 RIO DE JANEIRO, 1960s
 
 136
@@ -1215,7 +1214,7 @@ I need to write my book.
 
 242
 00:26:57,333 --> 00:26:59,750
-你需要一个可以讲述的故事。
+你需要讲述个故事。
 You need a story to tell.
 
 243
@@ -1440,7 +1439,7 @@ is what allows miracles to happen.
 
 286
 00:31:25,208 --> 00:31:27,792
-里约热内卢，二十世纪六十年代
+里约热内卢，20世纪60年代
 RIO DE JANEIRO, 1960s
 
 287
@@ -2339,7 +2338,7 @@ Only relieve the pressure when that thought departs your mind.
 
 454
 00:53:30,083 --> 00:53:35,333
-里约热内卢，二十世纪六十年代
+里约热内卢，20世纪60年代
 RIO DE JANEIRO, 1960s
 
 455
@@ -2718,7 +2717,7 @@ How can an ugly guy like me
 
 533
 01:04:10,792 --> 01:04:13,208
-相信如此美丽的女人的爱吗？
+相信如此美丽的女人的爱呢？
 believe in the love of such a beautiful woman?
 
 534
@@ -2758,7 +2757,7 @@ Whether or not He exists is not my problem anymore.
 
 541
 01:05:07,875 --> 01:05:10,792
-- 我放弃了。   -不，不要！
+- 我放弃了。   -不，千万不要！
 - I give up.        - No, don't!
 
 542
@@ -2783,7 +2782,7 @@ But I have to believe in our power.
 
 546
 01:05:23,500 --> 01:05:26,167
-- 如果这个烟灰缸碎了...		  -够了，保罗！
+- 如果这个烟灰缸碎了...		  - 不玩了，保罗！
 - If this ashtray breaks...         - Enough, Paulo!
 
 547
@@ -2798,7 +2797,7 @@ See, Ziza? It worked!
 
 549
 01:05:49,125 --> 01:05:50,125
-帮忙捡一下！
+帮我捡一下！
 Help me!
 
 550
@@ -4805,14 +4804,9 @@ Everything is one thing only
 and when you want something,
 
 940
-01:42:24,708 --> 01:42:29,792
-整个宇宙都会联合起来
-all the universe conspires
-
-941
-01:42:29,917 --> 01:42:34,708
-帮助你实现它 。
-in helping you achieve it.
+01:42:24,708 --> 01:42:34,708
+整个宇宙都会联合起来帮助你实现 。
+all the universe conspires in helping you achieve it.
 
 942
 01:42:49,167 --> 01:42:50,667
@@ -4841,7 +4835,7 @@ This book isn't good.
 
 947
 01:43:11,375 --> 01:43:14,250
-我读了，我试着喜欢它。
+我读过，试着喜欢它。
 I read it and I tried to like it.
 
 948

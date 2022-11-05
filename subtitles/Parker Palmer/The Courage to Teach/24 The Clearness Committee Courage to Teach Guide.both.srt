@@ -1,525 +1,533 @@
 1
+00:00:00,000 --> 00:05:12,500
+{\an9}<font size="8px">勇气更新中心</font>
+
+1
+00:00:00,070 --> 00:00:04,870
+{\an5}<font size="40px">教学勇气</font><br/><br/><font size="60px"><font color="yellow">澄心委员会</font></font>
+
+1
 00:00:04,870 --> 00:00:08,200
-����ίԱ����һ��
+澄心委员会是一个
 The clearness committee is a process
 
 2
 00:00:08,200 --> 00:00:11,750
-�ڹ�����������400����ʷ�Ĺ��̣�
+在贵格会社区中有400年历史的过程，
 that is 400 years old among the Quaker community
 
 3
 00:00:11,750 --> 00:00:14,619
-����Ϊ��ѧ�����˶���������˸ıࡣ
+我们为教学勇气运动对其进行了改编。
 that we have adapted for the courage to teach.
 
 4
 00:00:14,619 --> 00:00:17,460
-�򵥵�˵��������
+简单地说，它包括
 It consists to put it simply of 
 
 5
 00:00:17,460 --> 00:00:20,300
-һ���˴���������
+一个人带着他或她
 a person with an issue or a problem 
 
 6
 00:00:20,300 --> 00:00:22,439
-������������������⣬
+正在挣扎的问题或难题，
 that he or she is wrestling with,
 
 7
 00:00:22,439 --> 00:00:25,580
-��������������һ��
+和其他五六个人一起，
 sitting for two to three hours, 
 
 8
 00:00:25,580 --> 00:00:29,109
-����������Сʱ,
+坐上两三个小时,
 with five or six other people 
 
 9
 00:00:29,109 --> 00:00:33,300
-�ڻ����ǰ10�������ң�
+在会议的前10分钟左右，
 that focused person so-called presents his or her 
 
 10
 00:00:33,300 --> 00:00:36,789
-��ν�Ľ���������������������⡣
+所谓的焦点人物提出他或她的问题。
 problem in the first 10 minutes or so of the meeting.
 
 11
 00:00:36,789 --> 00:00:40,540
-Ȼ���ڽ�����������Сʱ��
+然后在接下来的两个小时，
 And then for the next two hours
 
 12
 00:00:40,540 --> 00:00:44,136
-��������ʱ���
+或者其它时段里，
 or whatever time remains a long period of time,
 
 13
 00:00:44,136 --> 00:00:46,418
-ίԱ���Ա����ֹ
+委员会成员被禁止
 members of the committee are 
 
 14
 00:00:46,418 --> 00:00:48,970
-���κη�ʽ�뽹������˵����
+以任何方式与焦点人物说话，
 forbidden to speak to the focused person
 
 15
 00:00:48,970 --> 00:00:54,521
-������һ����ʵ�Ŀ��������⡣
+除了问一个诚实而开放的问题。
 in any way except to ask an honest open question. 
 
 16
 00:00:54,521 --> 00:00:57,160
-���ǻ���ʲô������
+我们会在什么构成了
 And we do a lot of work on 
 
 17
 00:00:57,160 --> 00:00:59,490
-һ����ʵ�Ŀ�����������������͡�
+一个诚实而开放的问题上做了许多阐释。
 what constitutes an honest open question.
 
 18
 00:00:59,490 --> 00:01:02,310
-�������������˵����⣬Ȼ��˵��
+如果我听到这个人的问题后，说，
 If I hear this person's problem and say, 
 
 19
 00:01:02,310 --> 00:01:05,050
-������û�����Ҫȥ������ҽ��?����
+“你有没有想过要去看心理医生?”。
 "Have you thought about seeing a therapist?".
 
 20
 00:01:05,050 --> 00:01:07,290
-�ⲻ��һ����ʵ�Ŀ��������⣬
+这不是一个诚实而开放的问题，
 That's not an honest open question, 
 
 21
 00:01:07,290 --> 00:01:11,840
-��Ϊ��ʵ������һ��Ȱ˵��αװ,
+因为它实际上是一个劝说和伪装,
 because it is in fact a speech and disguise,
 
 22
 00:01:11,840 --> 00:01:14,390
-һ������Ľ��顣
+一个变相的建议。
 a piece of advice in disguise.
 
 23
 00:01:14,390 --> 00:01:15,789
-����ίԱ��������Χ����
+澄心委员会是我们围绕着
 And the clearness committee is where we
 
 24
 00:01:15,789 --> 00:01:18,789
-�������������ȡ������顢������
+不修正、不拯救、不建议、不纠正
 do our deepest practice around no fixing,
 
 25
 00:01:18,789 --> 00:01:22,220
-�������������ʵ���ĵط���
+而进行最深入的实践的地方。
 no saving, no advising, no setting straight.
 
 26
 00:01:22,220 --> 00:01:25,960
-������Сʱ�������ʱ����,
+在两个小时或更长的时间里,
 So for two hours or more, 
 
 27
 00:01:25,960 --> 00:01:28,609
-ίԱ�������������
+委员会里的五六个人
 the five or six folks on that committee 
 
 28
 00:01:28,609 --> 00:01:32,119
-������˳�ʵ�����ŵ�����,
+向这个人提出诚实而开放的问题,
 ask this person honest open questions, 
 
 29
 00:01:32,119 --> 00:01:33,310
-��������������
+焦点人物在其他人
 he or she answers
 
 30
 00:01:33,310 --> 00:01:34,960
-��ǰ�ش���Щ���⣬
+面前回答这些问题，
 those questions in front of the others
 
 31
 00:01:34,960 --> 00:01:38,229
-�������ѡ���������Ļ���ͨ�����ǻ���������
+如果焦点人物选择这样做的话，而通常他们会这样做。
 if they choose to do so and normally they do.
 
 32
 00:01:38,229 --> 00:01:40,659
-�����������ͼ��
+这里的整个意图是
 And the whole intent here is 
 
 33
 00:01:40,659 --> 00:01:44,539
-��������˽ҿ�
+帮助焦点人物揭开
 to help this person peel back whatever the layers are 
 
 34
 00:01:44,539 --> 00:01:47,350
-��ֹ�������޷�
+那些阻止他或她无法
 that keep him or her from
 
 35
 00:01:47,350 --> 00:01:49,229
-�������ڵ�ʦ����������Щ������
+听到内在导师声音的那些东西。
 hearing the voice of the inner teacher.
 
 36
 00:01:49,229 --> 00:01:52,420
-����������ǣ�
+贵格会的理解是，
 The Quaker understanding is that
 
 37
 00:01:52,420 --> 00:01:56,859
-ÿ���˶����Լ��������
+每个人都在自己的内心深处
 every person has within himself or herself 
 
 38
 00:01:56,859 --> 00:02:01,669
-ӵ�������������ӵ�д���
+拥有所需的真理，拥有处理
 the truth needed, the resources needed 
 
 39
 00:02:01,669 --> 00:02:04,439
-�������������������Դ��
+这个问题或议题所需的资源，
 to deal with that problem or issue 
 
 40
 00:02:04,439 --> 00:02:06,219
-�������Ƕ�ô���˷��ա�
+无论它们多么令人烦恼。
 no matter how vexing it is. 
 
 41
 00:02:06,219 --> 00:02:09,340
-�������Ҫ�ľ���
+我们最不需要的就是
 The last thing we need is advice
 
 42
 00:02:09,340 --> 00:02:11,580
-�ӱ��˵������е��뽨��;
+从别人的生活中导入的建议;
 imported from someone else's life; 
 
 43
 00:02:11,580 --> 00:02:13,810
-�������Ҫ�ľ�������˵,
+我们最不需要的就是有人说,
 the last thing we need is someone saying,
 
 44
 00:02:13,810 --> 00:02:16,049
-��������㣬�һ���ô��,
+“如果我是你，我会这么做”,
 well, if I were in your shoes, here's what I do,
 
 45
 00:02:16,049 --> 00:02:18,840
-��Ϊ����û���������ص�Ϊ�Է�����,
+因为我们没有站在彼此的角度考虑问题，
 because we aren't in each other shoes,
 
 46
 00:02:18,840 --> 00:02:21,479
-����վ���Լ��Ĺ¶��С�
+只是管窥一豹而已。
 we stand in our own solitude. 
 
 47
 00:02:21,479 --> 00:02:23,910
-����һ����ͼ������һ��Ĺ��̣�
+这是一个尽力尊重这一点的过程，
 And this is a process that tries to honor that,
 
 48
 00:02:23,910 --> 00:02:26,750
-��ͬʱ�����ض�����ͬʱ��
+在尊重独处的同时，
 but at the same time while honoring solitude
 
 49
 00:02:26,750 --> 00:02:29,450
-����������Դ����
+将社区的资源用于
 bringing the resources of community 
 
 50
 00:02:29,450 --> 00:02:32,459
-�������˵����⡣
+解决这个人的问题。
 to bear on that person's problem.
 
 51
 00:02:32,459 --> 00:02:35,729
-������Ҫ������ǣ�
+真正关键之处在于，
 What's really critical to understand  is 
 
 52
 00:02:35,729 --> 00:02:38,509
-����ʹ���ǰ�����
+这种做法不仅使我们摆脱了
 that this jerks us out not only of 
 
 53
 00:02:38,509 --> 00:02:41,719
-���ǵĽ���ϰ�ߺ�����
+我们的建议习惯和倾向，
 our advising habits and tendencies,
 
 54
 00:02:41,719 --> 00:02:43,930
-����Ҳ���������ǵĹ��
+而且也摆脱了我们如下的观念，
 but also of our notion that
 
 55
 00:02:43,930 --> 00:02:45,950
-�����Ǳ�Ͷ���ڵ�����
+即我们被投身在地球上
 somehow we were put on earth 
 
 56
 00:02:45,950 --> 00:02:49,140
-��Ϊ�˽���˴˵�����...
+是为了解决彼此的问题...
 to solve each other's problems... 
 
 57
 00:02:49,140 --> 00:02:52,009
-��ˣ������Ƕ�����˵��
+因此，我总是对人们说，
 So I always say to people that  
 
 58
 00:02:52,009 --> 00:02:55,530
-�ڳ���ίԱ���ڼ�,
+在澄心委员会期间,
 during a clearness committee, 
 
 59
 00:02:55,530 --> 00:02:58,719
-���ǵ�����ֻ�ǰ�һ���˷������ǵ�
+我们的任务只是把一个人放在我们的
 the task is simply to hold a human being 
 
 60
 00:02:58,719 --> 00:03:03,180
-���к����У�����һ����������һֻС��һ����
+手中和心中，就像一个人手握着一只小鸟一样。
 in our hands and hearts as one would hold a small bird.
 
 61
 00:03:03,180 --> 00:03:05,829
-����ίԱ�Ṥ���Ľ���,
+随着委员会工作的进行,
 And that as the committee goes along,
 
 62
 00:03:05,829 --> 00:03:08,955
-����������Сʱ��ʱ���
+在那两三个小时的时间里，
 they're going to be at least three temptations 
 
 63
 00:03:08,955 --> 00:03:11,619
-�������ٻ��������ջ�
+委员们至少会有三个诱惑。
 over that two or three hour period.
 
 64
 00:03:11,619 --> 00:03:13,326
-һ���ǣ�����һ��ʱ��,
+一个是，过了一段时间,
 One is that after a while, 
 
 65
 00:03:13,326 --> 00:03:15,639
-���ǵ��ֿ�ʼΧ����ֻ��ת��
+我们的手开始围着那只小鸟转，
 the hands start to close around that bird
 
 66
 00:03:15,639 --> 00:03:18,570
-���ǿ�ʼ���ʡ����������ޡ�
+我们开始解剖、分析和挑剔。
 and we start to dissect and analyze and pick apart.
 
 67
 00:03:18,570 --> 00:03:22,010
-����������һ�˵������������������������,
+遇此情况，我会说，让我们与这种倾向作斗争,
 And I say that let's fight that tendency,
 
 68
 00:03:22,010 --> 00:03:25,869
-�����Ǳ���˫���ſ�����ס��ֻ��
+让我们保持双手张开，并握住那只鸟。
 let's just keep the hands open and hold that bird.
 
 70
 00:03:25,869 --> 00:03:29,889
-�ڶ����ջ�����һ��Сʱ֮��
+第二个诱惑是在一个小时之后，
 A second temptation is going to be after an hour
 
 71
 00:03:29,889 --> 00:03:34,120
-���Ǹ��ܵ��Լ����ֺ͸첲�е���أ�
+我们感受到自己的手和胳膊有点沉重，
 so to kind of feel the weight of one's own hands and arms, 
 
 72
 00:03:34,120 --> 00:03:36,659
-��ֻ����ʵ�����أ�
+这只鸟其实并不重，
 the bird doesn't really weight anything, 
 
 73
 00:03:36,659 --> 00:03:38,459
-���ǳ��ᡣ
+灵魂非常轻。
 the soul is very light. 
 
 74
 00:03:38,459 --> 00:03:41,079
-���Ǿ���������ҽ��
+但在此期间维护、参与
 But the holding, the attending, 
 
 75
 00:03:41,079 --> 00:03:45,729
-����ע����
+并集中注意力是困难的，要求很高。
 the paying attention it is difficult and demanding. 
 
 76
 00:03:45,729 --> 00:03:48,430
-��ˣ����ǻῪʼ��
+因此，我们会开始想
 And so that we're going to 
 
 77
 00:03:48,430 --> 00:03:51,200
-����ֻ���������
+把那只鸟放下来。
 start wanting to put that bird down. 
 
 78
 00:03:51,200 --> 00:03:55,170
-��Ҫ������ҲҪ������������������
+我要求人们也要与这种倾向作斗争，
 And I ask people to fight that tendency as well,
 
 79
 00:03:55,170 --> 00:03:57,620
-��ֻ��������Сʱ��
+只要两三个小时而已，
 it's just two or three hours and 
 
 80
 00:03:57,620 --> 00:04:00,390
-���ǿ���������ֻ����ô�á�
+我们可以握着这只鸟的。
 we can hold the bird for that long. 
 
 81
 00:04:00,390 --> 00:04:02,749
-Ȼ�������Ҳ�����һ�������ǣ�
+然后第三个，也是最后一个倾向是，
 And then the third and final tendency is
 
 82
 00:04:02,749 --> 00:04:04,819
-�����Ǻ������
+在我们和焦点人物
 that somewhere towards the end of 
 
 83
 00:04:04,819 --> 00:04:06,549
-������������Сʱ��
+共度了两三个小时，
 the clearness committee process 
 
 84
 00:04:06,549 --> 00:04:08,739
-�������˳�ʵ�Ŀ���������֮��
+在问了诚实而开放的问题后，
 after we've sat with this person
 
 85
 00:04:08,739 --> 00:04:10,540
-�ڳ���ίԱ�����
+在澄心委员会过程
 for two or three hours and we've asked
 
 86
 00:04:10,540 --> 00:04:14,729
-�ӽ�β����ĳ���ط������Ǻ��������ġ�
+接近尾声的某个地方，这是很难做到的。
 honest open questions and it's very hard to do this. 
 
 87
 00:04:14,729 --> 00:04:16,930
-���ǽ���ʼ
+我们将开始
 We will start moving
 
 88
 00:04:16,930 --> 00:04:20,128
-�����ƶ�˫�֣��ɰɣ��ɰɣ�
+这样移动双手，飞吧，小鸟，飞吧，
 the hands this way, fly, fly, 
 
 89
 00:04:20,128 --> 00:04:22,869
-��û��������㻹����������ɰɣ�
+你没有领会吗，你还不明白吗，快飞吧，
 don't you get it, don't you see it, take off, 
 
 90
 00:04:22,869 --> 00:04:24,789
-������չʾ��ѧ����ʲô��
+向我们展示你学到了什么。
 show us that you have learned something. 
 
 91
 00:04:24,789 --> 00:04:26,933
-����ҲҪ�ֿ������ջ�
+我们也要抵抗这种诱惑。
 And we're to fight that temptation as well.
 
 92
 00:04:26,933 --> 00:04:30,370
-ȫ������˶����ٻ�
+我们被召唤要做的所有事情
 All in the world were called to do
 
 93
 00:04:30,370 --> 00:04:33,710
-Ҫ���ľ����𾴵ضԴ��Ǹ���
- is to hold that person respectfully attentively. 
+就是恭恭敬敬地捧着那个人。
+is to hold that person respectfully attentively. 
 
 94
 00:04:33,710 --> 00:04:38,079
-���ҿ�������
+并且渴望唤起
 And with a desire to evoke the voice of 
 
 95
 00:04:38,079 --> 00:04:39,419
-�Ǹ������ĵ�ʦ������,
+焦点人物内心导师的声音,
 that person's inner teacher,
 
 96
 00:04:39,419 --> 00:04:42,689
-����Ϊ�����ǣ�����Ϊ���Ǹ��˵����档
+不是为了我们，而是为了焦点人物的利益。
 not for our sake but for that person's sake.
 
 97
 00:04:42,689 --> 00:04:45,219
-��ίԱ����������,
+等澄心委员会过程结束后,
 And when the committee process is over,
 
 98
 00:04:45,219 --> 00:04:47,979
-���ǿ��Լ򵥵ذ����ջص����
+我们可以简单地把手收回到心里，
 we can simply withdraw those hands into the heart and
 
 100
 00:04:47,979 --> 00:04:51,525
-ֻҪ����Ը�⣬���������ǵ�������
+只要我们愿意，可以在我们的余生里
 hold the person there for as long as we want,
 
 101
 00:04:51,525 --> 00:04:53,159
-һֱ��������ˡ�
+一直捧着这个人。
 for the rest of our lives.
 
 102
 00:04:53,159 --> 00:04:55,839
-����Ϊ��������
+我认为这是人类
 I think it's what the human self most yearns for
 
 103
 00:04:55,839 --> 00:04:59,020
-�����������������ģ��Ǿ��Ǳ����ص�ӵ��,
+在这个世界上最渴望的，那就是被尊重地捧着,
 in this world is to be held respectfully,
 
 104
 00:04:59,020 --> 00:05:02,569
-���Ǳ����֣����Ǳ�����,
+不是被入侵，不是被修正,
 not to be invaded, not to be fixed, 
 
 105
 00:05:02,569 --> 00:05:06,810
-���Ǳ���������ֻ�Ǳ����ص�ӵ����
+不是被纠正，而只是被尊重地捧着。
 not to be set straight, but just to be held respectfully.
 
 106
 00:05:06,810 --> 00:05:08,410
-���������������ʱ��
+而当这种情况发生时，
 And when that happens, 
 
 107
 00:05:08,410 --> 00:05:12,500
-��˵Ľ������֮������
+最令人惊奇的成果会随之而来。
 the most amazing consequences ensue.
 
