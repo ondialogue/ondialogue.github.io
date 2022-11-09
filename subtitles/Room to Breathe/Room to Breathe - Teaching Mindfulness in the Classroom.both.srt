@@ -1,4 +1,11 @@
 1
+00:00:06,135 --> 00:00:14,305
+面对学生们让人头疼的行为和学习问题，
+旧金山的一所公立中学决定
+尝试一些完全不同的东西。
+这是他们的故事。
+
+1
 00:00:14,305 --> 00:00:16,141
 第一个词，第一部分。
 First word, part one.
@@ -10,7 +17,6 @@ What sound?
 
 3
 00:00:17,559 --> 00:00:18,685
- E。
  E.
 
 4
@@ -25,17 +31,16 @@ What word?
 
 6
 00:00:20,395 --> 00:00:21,312
-好，下一个词，什么声音？
+好，下一个词，怎么发音？
 Good, next word, what sound?
 
 7
 00:00:21,312 --> 00:00:22,272
- E。
  E.
 
 8
 00:00:22,272 --> 00:00:23,481
-什么词？
+这个是什么单词？
 What word?
 
 9
@@ -50,7 +55,7 @@ Are you with us?
 
 11
 00:00:25,358 --> 00:00:26,192
-什么词？
+什么单词？
 What word?
 
 12
@@ -65,13 +70,13 @@ Okay, part two.
 
 14
 00:00:28,111 --> 00:00:29,487
-什么声音？
+发什么音？
 What sound?
 
 17
 00:00:36,703 --> 00:00:40,415
 ♪ 第一声钵响，我讨厌这声音
-♪ First bell rings I hate that sound 
+♪ First bell rings I hate that sound.
 
 18
 00:00:40,415 --> 00:00:44,002
@@ -81,12 +86,16 @@ What sound?
 19
 00:00:44,002 --> 00:00:47,839
 ♪ 要测验，压力山大
-♪ Got a test, all kinds of stress 
+♪ Got a test,  all kinds of stress 
 
 20
 00:00:47,839 --> 00:00:50,800
 ♪ 不能再拿一个 F 回家
 ♪ Can't take home another F 
+
+21
+00:00:50,800 --> 00:00:53,887
+{\an5}<br/><br/><br/><br/><br/><br/><br/><font size="60px"><font color="yellow">呼吸</font></font><font size="60px">的空间</font></font>
 
 21
 00:00:50,800 --> 00:00:52,510
@@ -223,6 +232,10 @@ are completely disconnected and disengaged.
 在我们的学生中，有相当多的人
 There is a significant number of our students
 
+52
+00:02:22,809 --> 00:02:25,894
+{\an6}<font size="12px"> 安东尼·布拉克森<br/><br/>助理校长</font>
+
 53
 00:02:23,184 --> 00:02:26,229
 不认为学校是一个适合他们待的地方。
@@ -317,6 +330,10 @@ You're gonna get me in trouble.
 00:03:11,649 --> 00:03:15,153
 我只是觉得这种行为完全是离经叛道，
 I just find the behavior to be completely off the wall
+
+73
+00:03:13,276 --> 00:03:16,279
+{\an4}<font size="12px"> 汤姆 · 埃恩勒<br/><br/>七年级教师</font>
 
 74
 00:03:15,153 --> 00:03:18,448
@@ -1622,6 +1639,10 @@ mindfulness is spiritual or religious.
 00:14:01,674 --> 00:14:04,468
 虽然正念可以追溯到
 Although it can be traced back to
+
+357
+00:14:01,674 --> 00:14:06,668
+{\an6}<font size="12px">梅根 · 库恩<br/><br/>正念导师</font></font>
 
 358
 00:14:04,468 --> 00:14:06,720
@@ -3920,7 +3941,7 @@ Doesn't make any sense, to come to school for the full year
 
 852
 00:34:16,888 --> 00:34:19,265
-没有任何意义。
+那就说不通了。
 if at the end, you don't graduate.
 
 853
@@ -3950,17 +3971,17 @@ When I wake up in the morning,
 
 859
 00:34:35,907 --> 00:34:37,825
-想到今天是我们在学校教书的日子,
+想到今天是要去学校教书,
 and it's the day that we're teaching at this school,
 
 860
 00:34:37,825 --> 00:34:40,453
-我就有一种轻微的恐惧，
+我心中就有一种轻微的恐惧，
 I have a mixture of mild dread
 
 861
 00:34:40,453 --> 00:34:45,083
-不过也有一些我今天能做些什么的决心？
+也有一些关于我今天能做什么的决定。
 and also some determination of what can I do today?
 
 862
@@ -3970,17 +3991,17 @@ These classes are on my mind all the time.
 
 864
 00:34:50,713 --> 00:34:52,507
-当我觉得自己无法触及他们时,
+当我觉得自己无法触及这些学生时,
 When I feel like I'm not reaching them,
 
 865
 00:34:52,507 --> 00:34:55,009
-这是不可接受的，所以我想发挥创造力
+我觉得这是不可接受的，所以我想
 that's not acceptable so I wanna get creative
 
 866
 00:34:55,009 --> 00:34:57,095
-想办法触及他们。
+发挥创造力并想办法触及他们。
 and figure out how to reach 'em.
 
 869
@@ -4020,7 +4041,7 @@ What do you think is your biggest influence in your life?
 
 879
 00:35:59,448 --> 00:36:01,868
-每个人都开始注意，
+每个人都开始提高注意力，
 Everybody started paying attention
 
 880
@@ -4030,7 +4051,7 @@ and it was different from the other classes.
 
 881
 00:36:04,620 --> 00:36:05,538
-莱斯利？
+莱斯利，你的答案是？
  Lesly?
 
 882
@@ -4080,7 +4101,7 @@ Would you be surprised if I told you
 
 891
 00:36:17,300 --> 00:36:20,553
-最大影响的是你的想法，你会感到惊讶吗？
+最大影响的是你的心智，你会感到惊讶吗？
 the biggest influence in your life is your mind?
 
 892
@@ -4105,7 +4126,7 @@ And when we practice mindful breathing,
 
 896
 00:36:30,855 --> 00:36:33,608
-我们正在发展我们的心灵的力量，
+我们正在发展心智的力量，
 we're developing the strength of our mind
 
 897
@@ -4120,7 +4141,7 @@ It was hard to sit still
 
 899
 00:36:37,904 --> 00:36:40,656
-很难不要动手或任何东西。
+很难不动手或任何东西。
 and to not move my hands or anything.
 
 900
@@ -4140,7 +4161,7 @@ One way that we can create influence in our life
 
 903
 00:36:52,335 --> 00:36:56,589
-创造影响的一种方式是聚焦意图，
+产生影响的一种方式是聚焦意图，
 with our mind is by having thoughts on purpose,
 
 904
@@ -4150,7 +4171,7 @@ rather than thoughts on accident.
 
 905
 00:36:59,592 --> 00:37:02,261
-因此，继续前进，回到一个正念的位置。
+因此，继续前进，回到一个正念的体态。
 So go ahead and get back into a mindful position.
 
 906
@@ -4165,12 +4186,12 @@ So the first thing I want you to repeat, silently in your mind, is
 
 909
 00:37:10,436 --> 00:37:14,148
-我愿自己快乐。
+我祝自己快乐。
 I wish for myself to be happy.
 
 911
 00:37:14,148 --> 00:37:17,526
-然后试试这个愿望，我愿自己健康。
+然后试试这个愿望，我祝自己健康。
 And then try the wish, I wish for myself to be healthy.
 
 912
@@ -4250,7 +4271,7 @@ To do better in school.
 
 928
 00:38:03,656 --> 00:38:05,157
-在他的课上。
+在他的课上表现更好。
 In his class.
 
 929
@@ -4300,7 +4321,7 @@ Raise your hand if this was the first time that you
 
 938
 00:38:20,965 --> 00:38:23,759
-幸福有目的性的想法，请举手。
+幸福有了目的性的想法，请举手。
 had thoughts on purpose about your happiness.
 
 939
@@ -4310,7 +4331,7 @@ Okay.
 
 940
 00:38:26,095 --> 00:38:30,224
-今天我想让你们祝三次自己幸福。
+今天我想让你们祝自己幸福三次。
 I want you, three times today, wish yourself happiness.
 
 941
@@ -4395,7 +4416,7 @@ and effectively using the opportunity
 
 957
 00:39:07,053 --> 00:39:10,222
-他们的中学经历这个机会。
+他们在中学经历的这个机会。
 that is their middle school experience.
 
 959
@@ -7582,6 +7603,26 @@ And if I don't see you next year, happy eighth grade.
 保重，谢谢。
 Take care, thank you.
 
+1656
+01:11:48,353 --> 01:11:49,853
+奥马尔、莱斯利、杰奎琳
+
+1656
+01:11:49,853 --> 01:11:51,353
+和赫拉多都在年底获得升学。
+
+1656
+01:11:51,353 --> 01:11:52,853
+他们的违纪转介次数都大幅下降。
+
+1656
+01:11:52,853 --> 01:11:54,853
+他们的老师、家长和孩子们都觉得
+
+1656
+01:11:54,853 --> 01:11:56,353
+对自己的行为有了更多的控制。
+
 1657
 01:11:56,353 --> 01:12:00,190
 ♪ 有时我躺在月光下
@@ -7607,6 +7648,13 @@ Take care, thank you.
 ♪ 有时我会泪流满面
 ♪ Sometimes in my tears I drown
 
+1661
+01:12:10,158 --> 01:12:18,708
+{\an9}奥马尔仍然在学业上挣扎。
+但他已经毕业并正在上高中。
+他的家人和老师说，
+他现在更加平静，更少愤怒。
+
 1662
 01:12:11,952 --> 01:12:15,289
 ♪ 但我从不让它给我带来失望 
@@ -7621,6 +7669,12 @@ Take care, thank you.
 01:12:18,834 --> 01:12:21,871
 ♪ 我知道有一天一切都会好起来，因为
 ♪ I know someday it will all turn around  
+
+1664
+01:12:20,544 --> 01:12:28,971
+{\an9}莱斯利说，正念帮助她
+克服了困难的社交和家庭问题。
+她现在在旧金山的高中就读。
 
 1665
 01:12:21,871 --> 01:12:25,132
@@ -7647,10 +7701,23 @@ Take care, thank you.
 ♪ 不会再有战争了
 ♪ There'll be no more war 
 
+1669
+01:12:33,265 --> 01:12:41,606
+{\an9}杰奎琳的妈妈说，
+正念帮助她变得更平静、
+更尊重他人并提高了她的成绩。
+
 1670
 01:12:33,724 --> 01:12:35,893
 ♪我们的孩子会玩耍♪
 ♪ And our children will play ♪
+
+1670
+01:12:44,324 --> 01:12:49,239
+{\an9}杰拉尔多获得了 8 年级
+最大 GPA 增益特别奖，
+并因指导年轻学生而受到表彰。 
+他的父亲说这种变化是“惊人的”。
 
 1677
 01:12:49,239 --> 01:12:52,785
@@ -7667,6 +7734,12 @@ Take care, thank you.
 ♪ 无辜的灵魂♪
 ♪ Souls of the innocent 
 
+1679
+01:12:56,371 --> 01:13:04,255
+{\an9}凌布什希望有一天
+能有足够的钱为玛丽娜中学的
+所有学生带来正念课程。
+
 1680
 01:12:56,955 --> 01:12:58,582
 ♪ 鲜血淋漓的人行道
@@ -7681,6 +7754,30 @@ Take care, thank you.
 01:13:02,795 --> 01:13:06,465
 ♪在这迷宫里，你会迷失方向
 ♪ In this maze you can lose your way
+
+1682
+01:13:04,546 --> 01:13:07,340
+{\an8}正念课程结束后对七年级学生的调查发现：
+
+1682
+01:13:07,340 --> 01:13:10,177
+{\an8}80%的学生在心烦意乱时更容易平静下来
+
+1682
+01:13:10,177 --> 01:13:13,347
+{\an8}58%的学生在课堂上更专注
+
+1682
+01:13:13,347 --> 01:13:16,308
+{\an8}40%的学生用正念来避免争吵或打架
+
+1682
+01:13:16,308 --> 01:13:19,394
+{\an8}34%的学生说正念提高了他们的成绩
+
+1682
+01:13:19,394 --> 01:13:26,067
+{\an8}86%的学生说更多的小孩应该学正念
 
 1684
 01:13:08,175 --> 01:13:11,345
@@ -7717,6 +7814,12 @@ Take care, thank you.
 ♪我知道有一天一切都会好起来
 ♪ I know someday it'll all turn around  
 
+1690
+01:13:26,775 --> 01:13:34,362
+{\an8}在对其他八所学校学习正念的
+近 1,000 名学生进行的一项调查中
+也发现了类似的结果。
+
 1691
 01:13:27,862 --> 01:13:31,156
 ♪ 因为我的一生一直在等待
@@ -7734,8 +7837,24 @@ Take care, thank you.
 
 1694
 01:13:34,952 --> 01:13:37,955
- ♪ 我们不想再打仗
+♪ 我们不想再打仗
 ♪ That we don't wanna fight no more
+
+1694
+01:13:35,243 --> 01:13:37,243
+{\an8}自 1970 年代以来，
+
+1694
+01:13:37,243 --> 01:13:41,243
+{\an8}世界各地学校的数百万学生
+
+1694
+01:13:41,243 --> 01:13:46,243
+{\an8}学习了正念和其他基于冥想的技巧。 
+
+1694
+01:13:46,243 --> 01:13:51,243
+{\an8}这些面向 K-12 学生的计划正在继续快速增长中。
 
 1695
 01:13:37,955 --> 01:13:39,665
