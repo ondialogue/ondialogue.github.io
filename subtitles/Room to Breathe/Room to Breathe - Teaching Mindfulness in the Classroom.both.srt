@@ -17,7 +17,7 @@ What sound?
 
 3
 00:00:17,559 --> 00:00:18,685
- E.
+E.
 
 4
 00:00:18,685 --> 00:00:19,561
@@ -27,7 +27,7 @@ What word?
 5
 00:00:19,561 --> 00:00:20,395
 纯的。
- Pure.
+Pure.
 
 6
 00:00:20,395 --> 00:00:21,312
@@ -36,7 +36,7 @@ Good, next word, what sound?
 
 7
 00:00:21,312 --> 00:00:22,272
- E.
+E.
 
 8
 00:00:22,272 --> 00:00:23,481
@@ -61,7 +61,7 @@ What word?
 12
 00:00:26,192 --> 00:00:27,027
 学校。
- School.
+School.
 
 13
 00:00:27,027 --> 00:00:28,111
@@ -378,7 +378,7 @@ This was the assignment yesterday.
 83
 00:03:45,058 --> 00:03:47,101
 当你来到埃恩勒先生的课堂时,
- When you visit Mister Ehnle's class,
+When you visit Mister Ehnle's class,
 
 84
 00:03:47,101 --> 00:03:49,270
@@ -408,7 +408,7 @@ Science.
 89
 00:03:55,985 --> 00:03:59,614
 有一种不停地娱乐的感觉，
- There's sort of this sense of nonstop entertainment,
+There's sort of this sense of nonstop entertainment,
 
 91
 00:03:59,614 --> 00:04:03,409
@@ -433,7 +433,7 @@ I forgot what I was saying.
 96
 00:04:10,458 --> 00:04:12,961
 他们的参与是与
- Their engagement is tied to
+Their engagement is tied to
 
 97
 00:04:12,961 --> 00:04:15,964
@@ -458,7 +458,7 @@ and so it just continues on in the classroom.
 101
 00:04:28,142 --> 00:04:29,310
 别踢我。
- Stop kicking me.
+Stop kicking me.
 
 102
 00:04:30,228 --> 00:04:33,064
@@ -488,7 +488,7 @@ It's my backpack.
 108
 00:04:43,950 --> 00:04:45,910
 那是康纳的背包。
- That's Connor's backpack.
+That's Connor's backpack.
 
 109
 00:04:45,910 --> 00:04:46,995
@@ -508,7 +508,7 @@ I'd go back out with Edwin.
 112
 00:04:54,419 --> 00:04:56,004
 坡度是M。
- Slope is M.
+Slope is M.
 
 113
 00:04:56,004 --> 00:04:58,423
@@ -518,7 +518,7 @@ We're going to take a Y value.
 114
 00:04:58,423 --> 00:05:00,591
 他在公交车上经常和蒂亚拉在一起，
- He be hanging out with Tiara a lot on the bus, 
+He be hanging out with Tiara a lot on the bus, 
 
 115
 00:05:00,591 --> 00:05:02,719
@@ -668,12 +668,12 @@ No one likes you.
 146
 00:06:07,408 --> 00:06:09,577
 杰拉尔多，继续拼写。
- Gerardo, keep going, you're doing it.
+Gerardo, keep going, you're doing it.
 
 147
 00:06:09,577 --> 00:06:12,413
 杰拉多有时会发火，
- Gerardo does get angry sometimes
+Gerardo does get angry sometimes
 
 148
 00:06:12,413 --> 00:06:15,917
@@ -708,7 +708,7 @@ I'm not the only one that fools around.
 154
 00:06:28,513 --> 00:06:29,138
 是的，你是。
- Yeah you are.
+Yeah you are.
 
 155
 00:06:29,180 --> 00:06:30,056
@@ -793,7 +793,7 @@ I already did it.
 172
 00:07:06,134 --> 00:07:07,051
 奥马尔？
- Omar?
+Omar?
 
 173
 00:07:07,051 --> 00:07:09,220
@@ -813,7 +813,7 @@ I read the first word.
 176
 00:07:11,472 --> 00:07:12,390
 准备好了。
- On cue.
+On cue.
 
 177
 00:07:12,390 --> 00:07:15,143
@@ -843,7 +843,7 @@ It makes it hard to learn.
 183
 00:07:28,072 --> 00:07:29,073
 我们重新学一遍。
- So let's reconvene.
+So let's reconvene.
 
 184
 00:07:29,073 --> 00:07:29,782
@@ -858,7 +858,7 @@ Go sit over there by Jacqueline.
 186
 00:07:31,242 --> 00:07:32,326
 不。
- No.
+No.
 
 187
 00:07:33,536 --> 00:07:35,621
@@ -958,7 +958,7 @@ This is not the way to help yourself be successful.
 206
 00:08:07,612 --> 00:08:09,113
 我确实喜欢学新东西,
- I do like learning new stuff,
+I do like learning new stuff,
 
 207
 00:08:09,113 --> 00:08:12,366
@@ -1113,7 +1113,7 @@ Jacqueline, get your stuff and go see Nick.
 240
 00:09:20,184 --> 00:09:23,020
 当老师们在课堂上尝试了一些东西后，
- When the teachers have tried things in the classroom, 
+When the teachers have tried things in the classroom, 
 
 241
 00:09:23,020 --> 00:09:26,190
@@ -1123,7 +1123,7 @@ then the student comes down with the referral.
 243
 00:09:30,236 --> 00:09:32,071
 当我们被赶出教室时,
- When we get kicked out,
+When we get kicked out,
 
 244
 00:09:32,071 --> 00:09:33,781
@@ -1283,7 +1283,7 @@ But I didn't do anything.
 277
 00:10:56,280 --> 00:10:56,822
 没做什么？！
- Nothing?！
+Nothing?！
 
 278
 00:10:56,822 --> 00:10:57,531
@@ -1313,12 +1313,12 @@ I want my mom to come and talk some sense into that lady.
 284
 00:11:05,581 --> 00:11:06,957
 好吧，她也可以参与其中。
- Okay, well she can be part of that, too.
+Okay, well she can be part of that, too.
 
 285
 00:11:06,957 --> 00:11:08,292
 我发誓，她只是...
- I swear, she just...
+I swear, she just...
 
 286
 00:11:08,292 --> 00:11:11,003
@@ -1368,7 +1368,7 @@ Alright.
 296
 00:11:32,233 --> 00:11:32,900
 振作起来。
- Get it together.
+Get it together.
 
 297
 00:11:32,942 --> 00:11:34,985
@@ -1453,7 +1453,7 @@ Moises?
 315
 00:12:17,278 --> 00:12:18,112
 在。
- Yes.
+Yes.
 
 316
 00:12:18,154 --> 00:12:19,405
@@ -1468,7 +1468,7 @@ I went to get groceries.
 318
 00:12:21,365 --> 00:12:23,733
 我们的停课率比这个城市的
- We are suspending at a rate higher than 
+We are suspending at a rate higher than 
 
 320
 00:12:23,733 --> 00:12:25,661
@@ -1508,7 +1508,7 @@ how many times this has happened with you.
 329
 00:12:44,638 --> 00:12:45,848
 只发生过一次。
- It's only happened once.
+It's only happened once.
 
 330
 00:12:45,848 --> 00:12:48,309
@@ -1662,7 +1662,7 @@ What we're gonna try right now is
 361
 00:14:13,185 --> 00:14:15,604
 我称之为正念的姿势。
- just what I call mindful posture.
+just what I call mindful posture.
 
 363
 00:14:15,604 --> 00:14:17,182
@@ -1672,7 +1672,7 @@ If you're slouching or leaning,
 364
 00:14:17,182 --> 00:14:19,859
 就暂时离开你们的椅子，
- just lift off your chair momentarily for a few,
+just lift off your chair momentarily for a few,
 
 365
 00:14:19,859 --> 00:14:22,319
@@ -1692,7 +1692,7 @@ decide to put them either on your desk or in your lap.
 368
 00:14:30,995 --> 00:14:32,746
 你是说把手放在桌子上吗？
- You said put them on your desk?
+You said put them on your desk?
 
 369
 00:14:32,746 --> 00:14:34,373
@@ -1772,17 +1772,17 @@ Ugh.
 385
 00:15:13,495 --> 00:15:16,123
 大家注意，这样很不舒服。
- And notice that this is uncomfortable.
+And notice that this is uncomfortable.
 
 386
 00:15:16,457 --> 00:15:18,375
 不过不是不舒服。
- It's not uncomfortable.
+It's not uncomfortable.
 
 388
 00:15:18,417 --> 00:15:20,085
 如果你觉得有必要谈谈。
- And if you feel the need to talk.
+And if you feel the need to talk.
 
 389
 00:15:20,085 --> 00:15:23,422
@@ -1807,12 +1807,12 @@ Keep your attention with me.
 395
 00:15:32,723 --> 00:15:34,558
 我感觉糟透了。
- I feel horrible.
+I feel horrible.
 
 397
 00:15:39,229 --> 00:15:41,357
 是啊，告诉我你为什么不喜欢。
- Yeah, tell me why you didn't like it.
+Yeah, tell me why you didn't like it.
 
 398
 00:15:41,357 --> 00:15:43,275
@@ -1837,7 +1837,7 @@ like if I got shot or something, I don't know.
 402
 00:15:49,323 --> 00:15:51,325
 大家可否往我这里看？
- Can I have everybody's eyes up here?
+Can I have everybody's eyes up here?
 
 403
 00:15:51,325 --> 00:15:52,242
@@ -1847,12 +1847,12 @@ Thank you.
 404
 00:15:52,284 --> 00:15:53,202
 克里斯？
- Chris?
+Chris?
 
 405
 00:15:53,285 --> 00:15:54,328
 什么事，夫人？
- Yes, ma'am?
+Yes, ma'am?
 
 407
 00:15:55,162 --> 00:15:56,664
@@ -2012,7 +2012,7 @@ but...
 441
 00:17:16,744 --> 00:17:21,622
 孩子们问为什么要把正念课程带到他们的教室，
- The kids ask why mindfulness was brought to their classrooms 
+The kids ask why mindfulness was brought to their classrooms 
 
 442
 00:17:21,622 --> 00:17:23,713
@@ -2067,7 +2067,7 @@ I don't know about the class.
 454
 00:18:05,459 --> 00:18:06,085
 他们进去了吗？
- Did they get in?
+Did they get in?
 
 455
 00:18:06,085 --> 00:18:06,835
@@ -2382,7 +2382,7 @@ Thanks.
 517
 00:21:36,086 --> 00:21:37,087
 我是面朝那边的。
- I am facing that way.
+I am facing that way.
 
 518
 00:21:37,129 --> 00:21:39,214
@@ -2627,7 +2627,7 @@ Rusty Shackleford.
 571
 00:23:32,619 --> 00:23:34,746
 马特 · 拉斯蒂 · 沙克尔福德,
- So Matt Rusty Shackleford,
+So Matt Rusty Shackleford,
 
 573
 00:23:37,874 --> 00:23:40,710
@@ -2877,7 +2877,7 @@ Yeah, nothing.
 624
 00:25:43,124 --> 00:25:44,042
 很好。
- That's good.
+That's good.
 
 625
 00:25:44,709 --> 00:25:46,169
@@ -3302,7 +3302,7 @@ Yeah.
 714
 00:28:26,246 --> 00:28:28,665
 听起来好像我们在香港。
- Sound like we're in Hong Kong.
+Sound like we're in Hong Kong.
 
 715
 00:28:28,665 --> 00:28:30,125
@@ -3352,7 +3352,7 @@ It's boring and it's stupid.
 724
 00:28:50,061 --> 00:28:52,605
 你有没有发现你生命中有什么东西是无聊或愚蠢的？
- Do you ever find other things in your life boring or stupid?
+Do you ever find other things in your life boring or stupid?
 
 726
 00:28:52,605 --> 00:28:53,481
@@ -3362,7 +3362,7 @@ No.
 727
 00:28:53,481 --> 00:28:54,441
 没有，从来没有？
- No, never?
+No, never?
 
 728
 00:28:54,441 --> 00:28:55,316
@@ -3452,7 +3452,7 @@ all students are present in the class,
 745
 00:29:30,060 --> 00:29:31,603
 即使他们是捣蛋鬼，
- even if they are the disruptive ones, 
+even if they are the disruptive ones, 
  
  745
 00:29:31,603 --> 00:29:33,179
@@ -3547,7 +3547,7 @@ unless the rest of the class is settled in.
 765
 00:30:22,320 --> 00:30:24,197
 你为什么不问问这里所有的孩子
- So why don't you ask all the kids in here
+So why don't you ask all the kids in here
 
 766
 00:30:24,197 --> 00:30:26,908
@@ -3797,7 +3797,7 @@ because the teacher sent her to the office.
 822
 00:33:06,985 --> 00:33:09,112
  我们连续三天都在谈论这个问题。
- We talked about it for three days in a row.
+We talked about it for three days in a row.
 
 823
 00:33:09,112 --> 00:33:10,321
@@ -3902,7 +3902,7 @@ All of my homework.
 843
 00:33:57,452 --> 00:33:59,245
 我想这真的取决于你。
- I think it's really up to you.
+I think it's really up to you.
 
 844
 00:33:59,245 --> 00:34:01,564
@@ -3952,7 +3952,7 @@ I waste my time.
 854
 00:34:20,099 --> 00:34:21,434
 我认为这是个警钟。
- I did think that was a wake up call.
+I did think that was a wake up call.
 
 855
 00:34:21,434 --> 00:34:24,187
@@ -4017,7 +4017,7 @@ I'm gonna have you guys start leading mindfulness.
 872
 00:35:20,993 --> 00:35:23,037
 请闭上眼睛。
- Please let your eyes close.
+Please let your eyes close.
 
 874
 00:35:43,182 --> 00:35:48,604
@@ -4052,7 +4052,7 @@ and it was different from the other classes.
 881
 00:36:04,620 --> 00:36:05,538
 莱斯利，你的答案是？
- Lesly?
+Lesly?
 
 882
 00:36:05,538 --> 00:36:06,289
@@ -4062,7 +4062,7 @@ Dad.
 883
 00:36:06,330 --> 00:36:07,373
 爸爸。
- Dad.
+Dad.
 
 884
 00:36:07,999 --> 00:36:08,833
@@ -4077,7 +4077,7 @@ My sister.
 886
 00:36:09,709 --> 00:36:12,962
 好的，我们有人说了爸爸和姐姐。
- Okay, so we've got dad, sister.
+Okay, so we've got dad, sister.
 
 887
 00:36:12,962 --> 00:36:13,546
@@ -4087,7 +4087,7 @@ Gerardo?
 888
 00:36:13,546 --> 00:36:14,380
 艺术。
- Art.
+Art.
 
 889
 00:36:14,380 --> 00:36:15,214
@@ -4252,7 +4252,7 @@ An easier life.
 924
 00:37:58,901 --> 00:37:59,652
 谢谢。
- Thank you.
+Thank you.
 
 925
 00:37:59,652 --> 00:38:00,486
@@ -4267,7 +4267,7 @@ To do better in school.
 927
 00:38:02,780 --> 00:38:03,656
 太好了。
- Great.
+Great.
 
 928
 00:38:03,656 --> 00:38:05,157
@@ -4302,7 +4302,7 @@ I want to move to Alaska.
 934
 00:38:13,332 --> 00:38:14,667
 你想搬到阿拉斯加？
- You wish to move to Alaska?
+You wish to move to Alaska?
 
 935
 00:38:14,667 --> 00:38:15,209
@@ -4422,7 +4422,7 @@ that is their middle school experience.
 959
 00:39:26,739 --> 00:39:28,908
 六，七，八。
- Six, seven, eight.
+Six, seven, eight.
 
 960
 00:39:31,077 --> 00:39:32,536
@@ -4432,7 +4432,7 @@ Good morning, again.
 961
 00:39:32,536 --> 00:39:33,162
 嗨。
- Hi.
+Hi.
 
 962
 00:39:33,162 --> 00:39:34,080
@@ -4452,7 +4452,7 @@ How are you?
 965
 00:39:36,374 --> 00:39:37,416
 很好。
- Good.
+Good.
 
 966
 00:39:37,708 --> 00:39:40,711
@@ -4517,7 +4517,7 @@ I was a little impatient.
 981
 00:40:32,263 --> 00:40:33,222
 有点不耐烦？
- A little impatient?
+A little impatient?
 
 982
 00:40:33,222 --> 00:40:34,056
@@ -4527,7 +4527,7 @@ Yeah.
 983
 00:40:34,056 --> 00:40:35,057
 是啊，怎么了？
- Yeah, why?
+Yeah, why?
 
 984
 00:40:35,057 --> 00:40:37,935
@@ -4537,7 +4537,7 @@ Yeah.
 985
 00:40:37,935 --> 00:40:40,813
 没错，你们习惯了动来动去和接头接耳，
- You're used to moving and chatting, exactly.
+You're used to moving and chatting, exactly.
 
 987
 00:40:40,813 --> 00:40:42,982
@@ -4647,7 +4647,7 @@ How was your day?
 1011
 00:41:49,173 --> 00:41:50,049
 很好。
- Good.
+Good.
 
 1013
 00:41:55,471 --> 00:41:56,889
@@ -4657,7 +4657,7 @@ How's your asthma?
 1014
 00:41:56,889 --> 00:41:57,723
 没问题。
- Alright.
+Alright.
 
 1015
 00:41:58,599 --> 00:42:00,726
@@ -4757,7 +4757,7 @@ I need to know what she says, I know what you tell me.
 1034
 00:42:40,140 --> 00:42:42,268
 她对我有期望。
- She has expectations from me.
+She has expectations from me.
 
 1035
 00:42:42,268 --> 00:42:44,353
@@ -4772,7 +4772,7 @@ I need you to put down what she says about you.
 1037
 00:42:46,772 --> 00:42:49,525
 她要我好好表现。
- She's pushing me to do well.
+She's pushing me to do well.
 
 1038
 00:42:49,525 --> 00:42:51,819
@@ -4862,7 +4862,7 @@ But, he has a lot of disappointment that keeps surfacing.
 1055
 00:43:42,328 --> 00:43:43,370
 为什么？
- Why?
+Why?
 
 1056
 00:43:43,370 --> 00:43:45,289
@@ -5027,12 +5027,12 @@ And take a whole minute to chew it.
 1093
 00:45:14,086 --> 00:45:15,129
 整整一分钟？
- A whole minute?
+A whole minute?
 
 1094
 00:45:16,088 --> 00:45:18,465
 我想让你们留意的是
- And what I want you to pay attention to
+And what I want you to pay attention to
 
 1095
 00:45:19,591 --> 00:45:22,594
@@ -5042,7 +5042,7 @@ is how your raisin changes.
 1096
 00:45:24,263 --> 00:45:25,597
 太酸了。
- It's so sour.
+It's so sour.
 
 1097
 00:45:25,597 --> 00:45:30,185
@@ -5127,7 +5127,7 @@ I'll see you next week.
 1115
 00:46:11,435 --> 00:46:12,978
 5.5美元。
- It's $5.50.
+It's $5.50.
 
 1116
 00:46:23,530 --> 00:46:24,823
@@ -5221,7 +5221,7 @@ Stand right there.
 1136
 00:47:23,674 --> 00:47:25,425
 我不会把一切都告诉我父母。
- I don't tell my parents everything.
+I don't tell my parents everything.
 
 1137
 00:47:25,467 --> 00:47:27,886
@@ -5246,7 +5246,7 @@ I think it's going to get into her at some point.
 1142
 00:47:42,067 --> 00:47:44,236
 如果你生命中有人
- Raise your hand if you have somebody in your life
+Raise your hand if you have somebody in your life
 
 1143
 00:47:44,236 --> 00:47:46,405
@@ -5306,7 +5306,7 @@ if they were frustrated with me or anything.
 1155
 00:48:15,934 --> 00:48:17,978
 我祝你平安无事。
- I wish for you to be safe.
+I wish for you to be safe.
 
 1156
 00:48:21,023 --> 00:48:23,233
@@ -5411,7 +5411,7 @@ and you gotta burn, the little pot thing.
 1176
 00:49:13,492 --> 00:49:15,202
 把注意力停留在你的身体上,
- Let your attention rest in your body,
+Let your attention rest in your body,
 
 1177
 00:49:15,202 --> 00:49:18,747
@@ -5446,7 +5446,7 @@ But I want him to be somebody in life.
 1183
 00:49:38,308 --> 00:49:39,309
 太棒了,
- That was great,
+That was great,
 
 1184
 00:49:39,351 --> 00:49:41,480
@@ -5706,7 +5706,7 @@ So dude, he said he gonna come?
 1245
 00:52:53,420 --> 00:52:55,255
 不，他要我们去接他。
- No, he want us to come and get him.
+No, he want us to come and get him.
 
 1246
 00:52:55,255 --> 00:52:56,173
@@ -6026,7 +6026,7 @@ Get up.
 1316
 00:55:56,019 --> 00:55:57,520
 哦，你说的时候得友善点。
- Oh, you have to be kind, though.
+Oh, you have to be kind, though.
 
 1317
 00:55:57,520 --> 00:55:58,688
@@ -6046,7 +6046,7 @@ Thank you.
 1320
 00:56:01,566 --> 00:56:02,609
 谢谢你。
- Thank you.
+Thank you.
 
 1323
 00:56:06,571 --> 00:56:10,492
@@ -6081,7 +6081,7 @@ Anything else?
 1329
 00:56:19,042 --> 00:56:20,210
  我认为奥马尔已经
- I think Omar's reaching a point 
+I think Omar's reaching a point 
 
 1330
 00:56:20,210 --> 00:56:22,045
@@ -6175,12 +6175,12 @@ And I used mindfulness to calm down and not do nothing.
 
 1349
 00:57:20,228 --> 00:57:23,314
-我高兴我做了正念，因为这样做是有后果的。
+我高兴做了正念，因为若这样做会有不良后果的。
 I like it, 'cause there's consequences for that.
 
 1350
 00:57:23,314 --> 00:57:29,669
-我觉得很高兴，因为我可以真正地进行思考，
+我感觉挺高兴的，因为我可以真正地进行思考，
 I kind of feel happy 'cause I get to really think about things 
 
 1351
@@ -6235,12 +6235,12 @@ You trying to push me?
 
 1363
 00:58:16,034 --> 00:58:19,120
-如果我要为别人看到的杰奎琳，
+如果我要为别人看到的杰奎琳
 So if I was gonna write down words for the Jackie
 
 1364
 00:58:19,120 --> 00:58:22,916
-写下文字，我会想出什么词来呢？
+写下一些文字，我会想出什么词来呢？
 that other people see, what words would I come up with?
 
 1365
@@ -6286,7 +6286,7 @@ That's awful.
 1373
 00:58:34,260 --> 00:58:37,639
 杰奎琳喜欢参与正念。
- Jacqueline likes participating in mindfulness.
+Jacqueline likes participating in mindfulness.
 
 1374
 00:58:37,639 --> 00:58:41,017
@@ -6305,7 +6305,7 @@ I'm hoping that she starts to gain some perspective
 
 1378
 00:58:46,648 --> 00:58:49,400
-最近发生的与其她女孩的
+最近发生的与其她女孩的交往
 on these incidents that are happening recently with
 
 1379
@@ -6315,7 +6315,7 @@ other girls and getting into fights and all this stuff
 
 1380
 00:58:51,736 --> 00:58:54,697
-能为自己选择一条不同的道路。
+并能为自己选择一条不同的道路。
 and choose a different path for herself.
 
 1381
@@ -6360,7 +6360,7 @@ It's boring, but like,
 
 1389
 00:59:09,963 --> 00:59:14,259
-如果我生气或什么的，我可以拿它作为一种工具。
+如果我生气之类的，可以拿它作为一种工具。
 I could use it as a tool if I'm mad or something.
 
 1390
@@ -6370,7 +6370,7 @@ When people see you as mean,
 
 1391
 00:59:17,595 --> 00:59:18,930
-这是怎么回事？
+你觉得这是怎么回事？
 what's that all about?
 
 1392
@@ -6420,7 +6420,7 @@ Yeah.
 
 1401
 00:59:41,744 --> 00:59:42,787
-你能接受吗？
+你能接受这一点吗？
 You okay with that?
 
 1402
@@ -6446,7 +6446,7 @@ She does use mindfulness,
 1406
 00:59:54,339 --> 00:59:57,093
 我不知道她为什么不说，但她确实在用正念。
- I don't know why she doesn't say it, but she does.
+I don't know why she doesn't say it, but she does.
 
 1407
 00:59:57,802 --> 01:00:00,638
@@ -6475,7 +6475,7 @@ Can I get everybody to turn your chairs towards the front?
 
 1414
 01:00:17,822 --> 01:00:19,824
-再敲一次，引起他们的注意
+再敲一次，引起他们的注意。
 Ring it again to get their attention.
 
 1416
@@ -6520,23 +6520,23 @@ Thursday.
 
 1424
 01:00:42,597 --> 01:00:44,140
-因为出了点问题。
+因为出了点状况。
 'Cause there was a problem.
 
 1425
 01:00:44,140 --> 01:00:45,725
-你用了什么正念？
- And what kind of mindfulness did you use?
+你用了什么正念形式？
+And what kind of mindfulness did you use?
 
 1426
 01:00:45,725 --> 01:00:47,018
-呼吸。
+正念呼吸。
 Breathing.
 
 1427
 01:00:47,018 --> 01:00:50,313
-你为什么决定用呼吸？
- And why did you decide to use breathing?
+你为什么决定用正念呼吸？
+And why did you decide to use breathing?
 
 1428
 01:00:50,313 --> 01:00:52,273
@@ -6546,7 +6546,7 @@ Breathing.
 1429
 01:00:52,857 --> 01:00:53,816
 莱斯利和你在一起，
- So Lesly was with you
+So Lesly was with you
 
 1430
 01:00:53,816 --> 01:00:54,984
@@ -6561,7 +6561,7 @@ Mm hmm.
 1432
 01:00:55,818 --> 01:00:58,446
 有用吗? 有帮助吗? 有什么改变吗？
- And did it work or help or change anything?
+And did it work or help or change anything?
 
 1433
 01:00:58,446 --> 01:00:59,572
@@ -6571,17 +6571,17 @@ Mm hmm.
 1434
 01:01:00,698 --> 01:01:03,201
 你还有什么要说的吗？
- Will you say anything more about it?
+Will you say anything more about it?
 
 1435
 01:01:03,201 --> 01:01:05,078
-没什么可说的了。
+没什么要说的了。
 There's nothing else to say.
 
 1436
 01:01:05,078 --> 01:01:05,995
 好的。
- Okay.
+Okay.
 
 1437
 01:01:07,997 --> 01:01:08,998
@@ -6595,7 +6595,7 @@ When I have problems at school,
 
 1439
 01:01:12,459 --> 01:01:15,880
-我真的不和我的父母说话，
+我根本不和我的父母说话，
 I really don't talk to my parents,
 
 1440
@@ -6655,7 +6655,7 @@ Same thing at school.
 
 1452
 01:01:56,838 --> 01:02:00,299
-有人让我哭泣，却没有人知道,
+有人让我哭泣，没有人知道这一点,
 Someone makes me cry and no one else knew about it,
 
 1453
@@ -6740,12 +6740,12 @@ I have art class for second period.
 
 1470
 01:03:21,005 --> 01:03:24,634
-我喜欢画画，比如，如果我想画一些有关
+我喜欢画画，比如，我想画一些有关
 I like to draw, like, if I want to draw something about
 
 1471
 01:03:24,634 --> 01:03:27,637
-旧金山的作品，我喜欢画建筑之类的东西。
+旧金山的画作，我喜欢画建筑之类的东西。
 San Francisco, I like draw the buildings and stuff.
 
 1472
@@ -6760,12 +6760,12 @@ And one, two...
 
 1474
 01:03:31,224 --> 01:03:34,143
-不喜欢画苹果或类似的东西。
+不喜欢画苹果或之类的东西。
 Not like drawing apples or nothing like that.
 
 1475
 01:03:34,143 --> 01:03:36,020
-我不喜欢那样。
+我不喜欢那些东西。
 I don't really like that.
 
 1477
@@ -6810,12 +6810,12 @@ I don't really need to use mindfulness when I draw,
 
 1486
 01:04:16,936 --> 01:04:19,397
-但它给了我一点动力，试图帮助我
+但它给了我一点动力，正念会帮助我
 but like, it gives me a little boost to try to help me
 
 1487
 01:04:19,397 --> 01:04:22,733
-集中注意力，看看我想画什么。
+集中注意力，看看我到底想画什么。
 concentrate and try to see what I wanna draw.
 
 1488
@@ -6876,16 +6876,16 @@ mindfulness without me?
 1500
 01:04:59,478 --> 01:04:59,979
 做过。
- Yes.
+Yes.
 
 1501
 01:05:00,021 --> 01:05:00,438
 没有。
- No.
+No.
 
 1502
 01:05:00,438 --> 01:05:01,397
-我们没有。
+我们没有做。
 We have not.
 
 1503
@@ -6910,17 +6910,17 @@ the teachers and the students continue to use the bell
 
 1507
 01:05:10,698 --> 01:05:12,199
-也会继续使用颂钵，
+也会继续使用钵，
 even when the program is finished,
 
 1508
 01:05:12,199 --> 01:05:15,494
-所以在教室里就有个固定的工具，
+这样在教室里就有了个固定的工具，
 so that there's this constant tool in the classroom
 
 1509
 01:05:15,494 --> 01:05:17,162
-给正念练习一个提醒，
+它会给正念练习一个提醒，
 to give a reminder of mindfulness and 
 
 1510
@@ -6935,7 +6935,7 @@ In terms of calming things down, refocusing,
 
 1513
 01:05:39,310 --> 01:05:41,938
-正念是值得花时间上课的。
+正念是值得在课堂上花时间学习的。
 mindfulness was worth the class time.
 
 1514
@@ -6955,7 +6955,7 @@ like thy have more control over themselves
 
 1517
 01:05:48,235 --> 01:05:50,988
-有更多的控制权，而且他们不是
+有更多的掌控权，而不是
 and their behavior and that they aren't simply
 
 1518
@@ -6990,12 +6990,12 @@ not knowing what to do, not paying attention to anything.
 
 1524
 01:06:06,629 --> 01:06:09,507
-二现在，当我需要坐下来工作时，
+而现在，当我需要坐下来工作时，
 And like now, when I need to sit down and do my work,
 
 1525
 01:06:09,507 --> 01:06:13,177
-我只是想了想，然后说，你必须这么做。
+我只是想一下，然后对自己说，你必须这么做。
 I just think about it and like, say, you gotta do this, you know?
 
 1527
@@ -7005,12 +7005,10 @@ What word is this?
 
 1528
 01:06:14,595 --> 01:06:15,596
-不过。
- Though.
+Though.
 
 1529
 01:06:15,596 --> 01:06:16,430
-不过。
 Though.
 
 1530
@@ -7030,7 +7028,7 @@ They're paying attention better.
 
 1533
 01:06:23,604 --> 01:06:27,566
-他们觉得自己更专注于上课。
+他们觉得自己上课更专注了。
 That they feel more engaged in the lessons.
 
 1534
@@ -7045,12 +7043,12 @@ My personality changed.
 
 1536
 01:06:32,488 --> 01:06:34,240
-因为如果之前有过冲突,
+因为如果想之前一样有冲突,
 'Cause if there was a conflict before,
 
 1537
 01:06:34,240 --> 01:06:35,658
-我可能已经准备好吵架了。
+我可能已经准备好要吵架了。
 I would probably be ready to fight.
 
 1538
@@ -7061,7 +7059,7 @@ But now I'm just like, more, laid back, calm.
 1540
 01:06:41,789 --> 01:06:45,751
 我们取一条对称线。
- We take a line of symmetry and then.
+We take a line of symmetry and then.
 
 1541
 01:06:45,751 --> 01:06:47,837
@@ -7105,7 +7103,7 @@ and that's one of the things that many of our good learners
 
 1549
 01:07:04,353 --> 01:07:07,773
-带到学校而别人没有带来的东西。
+会带到学校而其他人没有带来的东西。
 bring that others don't bring to the school.
 
 1550
@@ -7115,12 +7113,12 @@ And so a program like this that helps teach kids that,
 
 1551
 01:07:10,609 --> 01:07:13,529
-帮助它成为学校实践的一部分，
+并帮助它成为学校实践的一部分，
 and helps it become a part of the practice within the school
 
 1552
 01:07:13,529 --> 01:07:16,615
-加强这一点，将帮助到这些孩子们。
+强化这一点的话，将帮助到这些孩子们。
 and reinforces that is going to help them.
 
 1553
@@ -7130,12 +7128,12 @@ The whole mural,
 
 1554
 01:07:23,122 --> 01:07:25,833
-是关于我们如何在城市中需要更多的和平。
+是关于我们如何在城市中有更多的和平。
 it's about how we need more peace in the city.
 
 1555
 01:07:29,086 --> 01:07:30,755
-制作这件作品最棒的部分
+制作这件作品最棒的环节
 The best part of making this piece
 
 1556
@@ -7150,12 +7148,12 @@ I think mindfulness taught me how to calm down,
 
 1558
 01:07:36,385 --> 01:07:39,430
-尽量不把问题放在事情的发展道路上，
+尽量不把问题挡在事情的发展道路上，
 to try to not put problems in the way of stuff
 
 1559
 01:07:39,430 --> 01:07:41,891
-而选择我想要的想法，
+而真正选择我想要的想法，
 and choose what I want to think
 
 1560
@@ -7189,18 +7187,18 @@ The other teachers that tell me he can't do good,
 all he does is disrupt, you know?
 
 1566
-01:07:54,612 --> 01:07:56,822
-就好像终于有人说，
-It's like finally somebody's saying that they're
+01:07:54,612 --> 01:07:56,522
+最后有人说，
+It's like finally somebody's saying 
 
 1567
-01:07:56,822 --> 01:07:58,074
-对我的工作印象深刻，
-impressed on what I do
+01:07:56,522 --> 01:07:58,154
+他们对我的工作印象深刻，
+that they're impressed on what I do
 
 1568
-01:07:58,115 --> 01:08:00,201
-他们很高兴我在那里。
+01:07:58,154 --> 01:08:00,201
+他们很高兴我在那里作画。
 and that they're happy that I'm there.
 
 1569
@@ -7210,7 +7208,7 @@ It makes me feel good,
 
 1570
 01:08:02,374 --> 01:08:05,289
-让我觉得，我知道我可以做到这一点。
+让我觉得，我知道我可以好好作画。
 makes me feel like I know I could do it.
 
 1571
@@ -7221,7 +7219,7 @@ Okay, so today is our last day of mindfulness.
 1573
 01:08:13,130 --> 01:08:14,340
 不！
- No!
+No!
 
 1575
 01:08:19,428 --> 01:08:20,554
@@ -7235,22 +7233,22 @@ So, if you have a reaction, or something to say,
 
 1577
 01:08:25,101 --> 01:08:27,978
-我希望你们只是注意到自己的反应。
+我希望你们只去注意到自己的反应。
 I want you to just notice it in yourself.
 
 1578
 01:08:27,978 --> 01:08:30,564
-如果你无法控制自己的冲动,
+如果你们无法控制自己的冲动,
 If you can not control your impulse,
 
 1579
 01:08:30,564 --> 01:08:34,777
-你得扪心自问，谁在控制？
+你们得问问自己，是谁在控制？
 you have to ask yourself, who's in control?
 
 1580
 01:08:38,823 --> 01:08:43,494
-我想请你们闭上眼睛或低头。
+我想请你们闭上眼睛或低下头。
 I'm gonna ask you to keep your eyes closed or down.
 
 1581
@@ -7289,14 +7287,14 @@ It's a wrong assumption to think that if you
 practice for a long time, then you'll never be angry again,
 
 1589
-01:09:00,803 --> 01:09:02,763
-否则你再也不会有麻烦了，或者没人会有麻烦了
-or you'll never have another problem or no one will
+01:09:00,803 --> 01:09:02,333
+或者你再也不会有麻烦了，
+or you'll never have another problem 
 
 1590
-01:09:02,763 --> 01:09:04,348
-永远不要生你的气。
-ever be mad at you.
+01:09:02,333 --> 01:09:04,348
+或者没人会对你生气。
+or no one will ever be mad at you.
 
 1591
 01:09:04,348 --> 01:09:05,766
@@ -7310,7 +7308,7 @@ and you can never create that situation.
 
 1593
 01:09:08,769 --> 01:09:11,856
-关键是你满足你的经验的方式发生了变化，
+关键是你满足你经历的方式发生了变化，
 It's that the way you're meeting your experience changes
 
 1594
@@ -7360,7 +7358,7 @@ I'm gonna have to sit away from my friends
 
 1605
 01:09:43,387 --> 01:09:47,099
-控制自己，做好自己的工作，不要偷懒。
+控制自己，做好自己的工作，不偷懒。
 and control myself, do my work and not get lazy.
 
 1606
@@ -7376,7 +7374,7 @@ Matt, do you want to say something?
 1608
 01:09:54,064 --> 01:09:54,565
 是的。
- Yes.
+Yes.
 
 1609
 01:09:54,565 --> 01:09:55,065
@@ -7386,7 +7384,7 @@ Okay.
 1610
 01:09:55,065 --> 01:09:56,567
 是葡萄干吗？
- Is it raisins?
+Is it raisins?
 
 1611
 01:09:56,567 --> 01:09:56,984
@@ -7401,7 +7399,7 @@ Is it raisin bran?
 1613
 01:09:58,068 --> 01:09:58,569
 不是。
- No.
+No.
 
 1615
 01:09:59,737 --> 01:10:02,031
@@ -7420,7 +7418,7 @@ Megan comes in
 
 1618
 01:10:05,743 --> 01:10:08,996
-就好像，你可以放松一下。
+像对我们说，你们可以放松一下。
 and it's like, you get to relax.
 
 1619
@@ -7455,12 +7453,12 @@ I want it to be something that reminds you that
 
 1625
 01:10:28,098 --> 01:10:32,436
-你现在有一个工具，你可以在你的余生使用。
+你现在有一个工具，你可以在往后余生使用正念。
 you have a tool now that you can use for the rest of your life.
 
 1627
 01:10:36,774 --> 01:10:38,943
-看到我爸的工作方式，压力很大。
+看到我爸的工作方式，我感觉他压力很大。
 Seeing how my dad works, like, it's stressful.
 
 1628
@@ -7485,12 +7483,12 @@ Once you have your heart,
 
 1633
 01:10:50,788 --> 01:10:51,830
-我想让你至少考虑
+我想让你至少想
 I want you to think about
 
 1634
 01:10:51,830 --> 01:10:54,375
-一件你学到了的事情。
+一件你学到了的东西。
 at least one thing that you've learned.
 
 1635
@@ -7505,7 +7503,7 @@ They're gonna start teasing me
 
 1637
 01:10:59,504 --> 01:11:01,131
-并对我的一切进行骚扰。
+并对我不断进行骚扰。
 and bothering me about everything.
 
 1638
@@ -7546,7 +7544,7 @@ No bullying.
 1645
 01:11:17,523 --> 01:11:18,524
 没有欺凌，是的。
- No bullying, yeah.
+No bullying, yeah.
 
 1646
 01:11:18,524 --> 01:11:21,151
@@ -7630,7 +7628,7 @@ Take care, thank you.
 
 1658
 01:12:00,190 --> 01:12:03,193
-♪ 感谢上帝，我还在呼吸
+♪ 感谢上天我在呼吸着
 ♪ I thank God I'm breathing 
 
 1659
@@ -7651,9 +7649,9 @@ Take care, thank you.
 1661
 01:12:10,158 --> 01:12:18,708
 {\an9}奥马尔仍然在学业上挣扎。
-但他已经毕业并正在上高中。
+但他已经毕业并在上高中。
 他的家人和老师说，
-他现在更加平静，更少愤怒。
+他现在有了更多的平静，愤怒少了。
 
 1662
 01:12:11,952 --> 01:12:15,289
@@ -7667,7 +7665,7 @@ Take care, thank you.
 
 1664
 01:12:18,834 --> 01:12:21,871
-♪ 我知道有一天一切都会好起来，因为
+♪ 我知道有一天一切都会好起来，
 ♪ I know someday it will all turn around  
 
 1664
@@ -7678,7 +7676,7 @@ Take care, thank you.
 
 1665
 01:12:21,871 --> 01:12:25,132
-♪ 因为 我一生都在等待
+♪ 因为我一生都在等待
 ♪ because all my life I been waiting for
 
 1666
@@ -7709,8 +7707,8 @@ Take care, thank you.
 
 1670
 01:12:33,724 --> 01:12:35,893
-♪我们的孩子会玩耍♪
-♪ And our children will play ♪
+♪我们的孩子将玩起来
+♪ And our children will play 
 
 1670
 01:12:44,324 --> 01:12:49,239
@@ -7726,12 +7724,12 @@ Take care, thank you.
 
 1678
 01:12:52,785 --> 01:12:55,245
-♪因为我们都会失去♪
+♪因为我们都会失去
 ♪ 'Cause we all lose when they feed on the 
 
 1679
 01:12:55,245 --> 01:12:56,955
-♪ 无辜的灵魂♪
+♪ 无辜的灵魂
 ♪ Souls of the innocent 
 
 1679
@@ -7791,13 +7789,13 @@ Take care, thank you.
 
 1686
 01:13:13,055 --> 01:13:15,140
-绝不可能
+♪ 绝不可能
 ♪ No way 
 
 1687
 01:13:15,140 --> 01:13:18,060
-♪有时我会泪流满面
-♪ Sometimes in my tears I drown ♪
+♪ 有时我会泪流满面
+♪ Sometimes in my tears I drown
 
 1688
 01:13:18,060 --> 01:13:21,271
@@ -7806,7 +7804,7 @@ Take care, thank you.
 
 1689
 01:13:21,271 --> 01:13:24,775
-♪所以当消极情绪笼罩♪
+♪所以当消极情绪笼罩
 ♪ So when negativity surrounds 
 
 1690
@@ -7827,8 +7825,8 @@ Take care, thank you.
 
 1692
 01:13:31,156 --> 01:13:32,908
-♪我一直在祈祷♪
-♪ I been praying for ♪
+♪我一直在祈祷
+♪ I been praying for
 
 1693
 01:13:32,908 --> 01:13:34,952
@@ -7863,7 +7861,7 @@ Take care, thank you.
 
 1696
 01:13:39,665 --> 01:13:41,625
-♪我们的孩子会玩耍♪
+♪我们的孩子将玩起来
 ♪ And our children will play ♪
 
 1703
@@ -7893,6 +7891,6 @@ Take care, thank you.
 
 1708
 01:14:05,065 --> 01:14:08,152
-♪在同样的阳光下，唱着自由之歌
+♪在同一片阳光下，唱着自由之歌
 ♪ Under the same sun singing songs of freedom like 
 
