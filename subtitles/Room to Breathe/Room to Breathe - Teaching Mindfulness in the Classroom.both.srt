@@ -95,7 +95,7 @@ What sound?
 
 21
 00:00:50,800 --> 00:00:53,887
-{\an5}<br/><br/><br/><br/><br/><br/><br/><font size="60px"><font color="yellow">呼吸</font></font><font size="60px">的空间</font></font>
+{\an5}<br/><br/><br/><br/><br/><br/><br/><br/><br/><font size="80px"><font color="yellow">呼吸</font></font><font size="60px">的房间</font></font>
 
 21
 00:00:50,800 --> 00:00:52,510
@@ -169,7 +169,7 @@ Guys, let's go inside.
 
 38
 00:01:35,720 --> 00:01:38,139
-我们已经有了荣誉班，
+我们已经有了优等班，
 You've got the honors classes that
 
 39
@@ -184,17 +184,17 @@ no behavior problems.
 
 41
 00:01:41,643 --> 00:01:44,521
-我们也有普通班，是个混合班级,
+我们也有普通班，是混合班级,
 Then you have the general ed classes, which are a mix,
 
 42
 00:01:44,521 --> 00:01:48,108
-包括考试成绩最低的学生。
+包括考试成绩最差的学生。
 but contain students who have the lowest test scores.
 
 43
 00:01:50,819 --> 00:01:55,949
-我几乎没有收到荣誉班的行为转介报告。
+我几乎没有收到优等班的行为转介报告。
 I virtually get no behavioral referrals for the honors classes.
 
 45
@@ -219,12 +219,12 @@ who are successful, who perform well and
 
 50
 00:02:12,173 --> 00:02:16,344
-而在同一个校园里，我们有一群学生
+而在同一个校园里，我们也有一群学生，
 within our very same campus, we have a group of students who
 
 51
 00:02:16,344 --> 00:02:19,264
-与大家是完全脱节和脱离的。
+他们是完全心神不宁，上课漠不关心。
 are completely disconnected and disengaged.
 
 52
@@ -238,12 +238,12 @@ There is a significant number of our students
 
 53
 00:02:23,184 --> 00:02:26,229
-不认为学校是一个适合他们待的地方。
+认为学校不是一个适合他们待的地方。
 that don't see school as a place for them.
 
 54
 00:02:26,229 --> 00:02:29,023
-我总是说，“他们不上学”
+我总是说，“他们不要上学”
 I always say it by saying, "they don't do school."
 
 55
@@ -288,7 +288,7 @@ Ooh.
 
 65
 00:02:52,672 --> 00:02:55,717
-当全班都疯了，都在扔铅笔时,
+全班都疯了，都在扔铅笔,
 When the class is crazy, and throwing pencils,
 
 66
@@ -313,12 +313,12 @@ Turn around, get on task.
 
 70
 00:03:04,893 --> 00:03:08,062
-我已经把更多的学生送出教室并停课了，
+很长一段时间以来，我送走和停学的学生
 I have sent out and suspended from my classroom
 
 71
 00:03:08,062 --> 00:03:10,315
-这是我很长时间以来的第一次。
+比我在教的学生还要多。
 more students than I have in a long time.
 
 72
@@ -328,7 +328,7 @@ You're gonna get me in trouble.
 
 73
 00:03:11,649 --> 00:03:15,153
-我只是觉得这种行为完全是离经叛道，
+我只觉得这种行为完全是离经叛道，
 I just find the behavior to be completely off the wall
 
 73
@@ -362,7 +362,7 @@ and maybe they're not that type of kid.
 
 79
 00:03:32,629 --> 00:03:35,465
-这种情况达到了他们不觉得自己被听到的地步。
+这种情况达到了他们不觉得自己被人听到的地步。
 It reaches a point where they don't feel like they're heard.
 
 80
@@ -407,7 +407,7 @@ Science.
 
 89
 00:03:55,985 --> 00:03:59,614
-有一种不停地娱乐的感觉，
+有一种不停地玩耍的感觉，
 There's sort of this sense of nonstop entertainment,
 
 91
@@ -452,7 +452,7 @@ and they are consumed by it
 
 100
 00:04:20,426 --> 00:04:23,638
-所以在课堂上继续进行。
+所以在课堂上继续进行这些事情。
 and so it just continues on in the classroom.
 
 101
@@ -7453,7 +7453,7 @@ I want it to be something that reminds you that
 
 1625
 01:10:28,098 --> 01:10:32,436
-你现在有一个工具，你可以在往后余生使用正念。
+你们现在有了一个工具，可以在往后余生使用正念。
 you have a tool now that you can use for the rest of your life.
 
 1627
